@@ -1,2 +1,3 @@
 # programiranje-1-projektna-naloga
-Proje
+
+Projektna naloga pri predmetu Programiranje 1.
