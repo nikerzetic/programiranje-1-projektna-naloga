@@ -241,3 +241,12 @@ Error rating book. Refresh and try again.
             <div class="clear"></div>
           </div>
           <div class="clear"></div>
+
+
+Python Regex:
+title = r'<a title="(.*?(\(.*?\))?)"'
+author = r'<span itemprop="name">(.*?)</span>'
+shelved = r'\(shelved (\d+?) times as <em>fantasy</em>\)</a>'
+rating = r'avg rating (.*?) '
+ratings = r'(.*?) ratings '
+published = r'published (.*?)\s'
