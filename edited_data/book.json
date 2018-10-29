@@ -1,0 +1,1502 @@
+[
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "series": "Harry Potter",
+        "volume": "1",
+        "author": "J.K. Rowling",
+        "shelved": 51626,
+        "avg_rating": 4.46,
+        "ratings": 6243994,
+        "published": 1997
+    },
+    {
+        "title": "The Hobbit",
+        "series": "Paperback",
+        "volume": null,
+        "author": "J.R.R. Tolkien",
+        "shelved": 44832,
+        "avg_rating": 4.25,
+        "ratings": 2926412,
+        "published": 1937
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "series": "Harry Potter",
+        "volume": "2",
+        "author": "J.K. Rowling",
+        "shelved": 43455,
+        "avg_rating": 4.39,
+        "ratings": 2515555,
+        "published": 1998
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "series": "Harry Potter",
+        "volume": "3",
+        "author": "J.K. Rowling",
+        "shelved": 43277,
+        "avg_rating": 4.54,
+        "ratings": 2552587,
+        "published": 1999
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "series": "Harry Potter",
+        "volume": "4",
+        "author": "J.K. Rowling",
+        "shelved": 41968,
+        "avg_rating": 4.54,
+        "ratings": 2424822,
+        "published": 2000
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "series": "Harry Potter",
+        "volume": "7",
+        "author": "J.K. Rowling",
+        "shelved": 40836,
+        "avg_rating": 4.62,
+        "ratings": 2481707,
+        "published": 2007
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "series": "Harry Potter",
+        "volume": "6",
+        "author": "J.K. Rowling",
+        "shelved": 40583,
+        "avg_rating": 4.55,
+        "ratings": 2361115,
+        "published": 2005
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "series": "Harry Potter",
+        "volume": "5",
+        "author": "J.K. Rowling",
+        "shelved": 40560,
+        "avg_rating": 4.48,
+        "ratings": 2398214,
+        "published": 2003
+    },
+    {
+        "title": "A Game of Thrones",
+        "series": "A Song of Ice and Fire",
+        "volume": "1",
+        "author": "George R.R. Martin",
+        "shelved": 39324,
+        "avg_rating": 4.45,
+        "ratings": 2183531,
+        "published": 1996
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "series": "The Lord of the Rings",
+        "volume": "1",
+        "author": "J.R.R. Tolkien",
+        "shelved": 34300,
+        "avg_rating": 4.34,
+        "ratings": 2419116,
+        "published": 1954
+    },
+    {
+        "title": "A Clash of Kings ",
+        "series": "A Song of Ice and Fire",
+        "volume": "2",
+        "author": "George R.R. Martin",
+        "shelved": 28461,
+        "avg_rating": 4.41,
+        "ratings": 810041,
+        "published": 1998
+    },
+    {
+        "title": "The Two Towers",
+        "series": "The Lord of the Rings",
+        "volume": "2",
+        "author": "J.R.R. Tolkien",
+        "shelved": 24535,
+        "avg_rating": 4.43,
+        "ratings": 716108,
+        "published": 1954
+    },
+    {
+        "title": "A Storm of Swords",
+        "series": "A Song of Ice and Fire",
+        "volume": "3",
+        "author": "George R.R. Martin",
+        "shelved": 23854,
+        "avg_rating": 4.54,
+        "ratings": 725504,
+        "published": 2000
+    },
+    {
+        "title": "The Name of the Wind",
+        "series": "The Kingkiller Chronicle",
+        "volume": "1",
+        "author": "Patrick Rothfuss",
+        "shelved": 23845,
+        "avg_rating": 4.55,
+        "ratings": 853410,
+        "published": 2007
+    },
+    {
+        "title": "The Return of the King",
+        "series": "The Lord of the Rings",
+        "volume": "3",
+        "author": "J.R.R. Tolkien",
+        "shelved": 23749,
+        "avg_rating": 4.52,
+        "ratings": 696098,
+        "published": 1955
+    },
+    {
+        "title": "A Feast for Crows",
+        "series": "A Song of Ice and Fire",
+        "volume": "4",
+        "author": "George R.R. Martin",
+        "shelved": 23200,
+        "avg_rating": 4.11,
+        "ratings": 700192,
+        "published": 2005
+    },
+    {
+        "title": "The Lion, the Witch and the Wardrobe",
+        "series": "Chronicles of Narnia",
+        "volume": "1",
+        "author": "C.S. Lewis",
+        "shelved": 21217,
+        "avg_rating": 4.2,
+        "ratings": 2130800,
+        "published": 1950
+    },
+    {
+        "title": "Eragon",
+        "series": "The Inheritance Cycle",
+        "volume": "1",
+        "author": "Christopher Paolini",
+        "shelved": 20556,
+        "avg_rating": 3.88,
+        "ratings": 1566392,
+        "published": 2002
+    },
+    {
+        "title": "The Golden Compass",
+        "series": "His Dark Materials",
+        "volume": "1",
+        "author": "Philip Pullman",
+        "shelved": 20316,
+        "avg_rating": 3.95,
+        "ratings": 1382909,
+        "published": 1995
+    },
+    {
+        "title": "A Dance with Dragons",
+        "series": "A Song of Ice and Fire",
+        "volume": "5",
+        "author": "George R.R. Martin",
+        "shelved": 19981,
+        "avg_rating": 4.31,
+        "ratings": 648945,
+        "published": 2011
+    },
+    {
+        "title": "American Gods",
+        "series": "Kindle Edition",
+        "volume": null,
+        "author": "Neil Gaiman",
+        "shelved": 18376,
+        "avg_rating": 4.14,
+        "ratings": 328663,
+        "published": 2001
+    },
+    {
+        "title": "The Lightning Thief",
+        "series": "Percy Jackson and the Olympians",
+        "volume": "1",
+        "author": "Rick Riordan",
+        "shelved": 18329,
+        "avg_rating": 4.24,
+        "ratings": 2101508,
+        "published": 2005
+    },
+    {
+        "title": "The Final Empire",
+        "series": "Mistborn",
+        "volume": "1",
+        "author": "Brandon Sanderson",
+        "shelved": 17664,
+        "avg_rating": 4.43,
+        "ratings": 461098,
+        "published": 2006
+    },
+    {
+        "title": "Twilight",
+        "series": "Twilight",
+        "volume": "1",
+        "author": "Stephenie Meyer",
+        "shelved": 15518,
+        "avg_rating": 3.58,
+        "ratings": 4927876,
+        "published": 2005
+    },
+    {
+        "title": "City of Bones",
+        "series": "The Mortal Instruments",
+        "volume": "1",
+        "author": "Cassandra Clare",
+        "shelved": 15402,
+        "avg_rating": 4.12,
+        "ratings": 1887158,
+        "published": 2007
+    },
+    {
+        "title": "The Lord of the Rings",
+        "series": "The Lord of the Rings",
+        "volume": "1-3",
+        "author": "J.R.R. Tolkien",
+        "shelved": 14828,
+        "avg_rating": 4.47,
+        "ratings": 615809,
+        "published": 1955
+    },
+    {
+        "title": "Neverwhere",
+        "series": "London Below",
+        "volume": "1",
+        "author": "Neil Gaiman",
+        "shelved": 14513,
+        "avg_rating": 4.18,
+        "ratings": 584062,
+        "published": 1996
+    },
+    {
+        "title": "The Eye of the World",
+        "series": "Wheel of Time",
+        "volume": "1",
+        "author": "Robert Jordan",
+        "shelved": 14503,
+        "avg_rating": 4.19,
+        "ratings": 449004,
+        "published": 1990
+    },
+    {
+        "title": "The Wise Man's Fear",
+        "series": "The Kingkiller Chronicle",
+        "volume": "2",
+        "author": "Patrick Rothfuss",
+        "shelved": 14257,
+        "avg_rating": 4.58,
+        "ratings": 402946,
+        "published": 2011
+    },
+    {
+        "title": "Throne of Glass",
+        "series": "Throne of Glass",
+        "volume": "1",
+        "author": "Sarah J. Maas",
+        "shelved": 13524,
+        "avg_rating": 4.23,
+        "ratings": 707915,
+        "published": 2012
+    },
+    {
+        "title": "Graceling",
+        "series": "Graceling Realm",
+        "volume": "1",
+        "author": "Kristin Cashore",
+        "shelved": 13400,
+        "avg_rating": 4.1,
+        "ratings": 589595,
+        "published": 2008
+    },
+    {
+        "title": "The Night Circus",
+        "series": "Hardcover",
+        "volume": null,
+        "author": "Erin Morgenstern",
+        "shelved": 13357,
+        "avg_rating": 4.03,
+        "ratings": 932332,
+        "published": 2011
+    },
+    {
+        "title": "The Princess Bride",
+        "series": "Paperback",
+        "volume": null,
+        "author": "William Goldman",
+        "shelved": 13036,
+        "avg_rating": 4.26,
+        "ratings": 1139015,
+        "published": 1973
+    },
+    {
+        "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "series": "Mass Market Paperback",
+        "volume": null,
+        "author": "Terry Pratchett",
+        "shelved": 12618,
+        "avg_rating": 4.26,
+        "ratings": 585145,
+        "published": 1990
+    },
+    {
+        "title": "The Color of Magic",
+        "series": "Discworld",
+        "volume": "1; Rincewind #1",
+        "author": "Terry Pratchett",
+        "shelved": 12472,
+        "avg_rating": 4.02,
+        "ratings": 349123,
+        "published": 1983
+    },
+    {
+        "title": "The Subtle Knife",
+        "series": "His Dark Materials",
+        "volume": "2",
+        "author": "Philip Pullman",
+        "shelved": 12179,
+        "avg_rating": 4.28,
+        "ratings": 4234,
+        "published": 1997
+    },
+    {
+        "title": "Harry Potter and the Cursed Child - Parts One and Two",
+        "series": "Harry Potter",
+        "volume": "8",
+        "author": "John Tiffany",
+        "shelved": 12119,
+        "avg_rating": 3.67,
+        "ratings": 708031,
+        "published": 2016
+    },
+    {
+        "title": "The Sea of Monsters",
+        "series": "Percy Jackson and the Olympians",
+        "volume": "2",
+        "author": "Rick Riordan",
+        "shelved": 11929,
+        "avg_rating": 4.24,
+        "ratings": 756674,
+        "published": 2006
+    },
+    {
+        "title": "The Lies of Locke Lamora",
+        "series": "Gentleman Bastard",
+        "volume": "1",
+        "author": "Scott Lynch",
+        "shelved": 11923,
+        "avg_rating": 4.3,
+        "ratings": 19746,
+        "published": 2006
+    },
+    {
+        "title": "Assassin's Apprentice",
+        "series": "Farseer Trilogy",
+        "volume": "1",
+        "author": "Robin Hobb",
+        "shelved": 11912,
+        "avg_rating": 4.21,
+        "ratings": 81109,
+        "published": 1995
+    },
+    {
+        "title": "Eldest",
+        "series": "The Inheritance Cycle",
+        "volume": "2",
+        "author": "Christopher Paolini",
+        "shelved": 11749,
+        "avg_rating": 3.97,
+        "ratings": 358489,
+        "published": 2005
+    },
+    {
+        "title": "The Silmarillion",
+        "series": "Middle-Earth Universe",
+        "volume": null,
+        "author": "J.R.R. Tolkien",
+        "shelved": 11628,
+        "avg_rating": 3.87,
+        "ratings": 256100,
+        "published": 1977
+    },
+    {
+        "title": "The Hunger Games",
+        "series": "The Hunger Games",
+        "volume": "1",
+        "author": "Suzanne Collins",
+        "shelved": 11625,
+        "avg_rating": 4.33,
+        "ratings": 6376723,
+        "published": 2008
+    },
+    {
+        "title": "The Magician's Nephew",
+        "series": "Chronicles of Narnia",
+        "volume": "6",
+        "author": "C.S. Lewis",
+        "shelved": 11580,
+        "avg_rating": 4.03,
+        "ratings": 410771,
+        "published": 1955
+    },
+    {
+        "title": "The Well of Ascension",
+        "series": "Mistborn",
+        "volume": "2",
+        "author": "Brandon Sanderson",
+        "shelved": 11321,
+        "avg_rating": 4.36,
+        "ratings": 245950,
+        "published": 2007
+    },
+    {
+        "title": "New Moon",
+        "series": "Twilight",
+        "volume": "2",
+        "author": "Stephenie Meyer",
+        "shelved": 11156,
+        "avg_rating": 3.52,
+        "ratings": 1516026,
+        "published": 2006
+    },
+    {
+        "title": "The Amber Spyglass",
+        "series": "His Dark Materials",
+        "volume": "3",
+        "author": "Philip Pullman",
+        "shelved": 11130,
+        "avg_rating": 4.08,
+        "ratings": 281000,
+        "published": 2000
+    },
+    {
+        "title": "A Wizard of Earthsea",
+        "series": "Earthsea Cycle",
+        "volume": "1",
+        "author": "Ursula K. Le Guin",
+        "shelved": 11037,
+        "avg_rating": 4.0,
+        "ratings": 290460,
+        "published": 1968
+    },
+    {
+        "title": "The Way of Kings",
+        "series": "The Stormlight Archive",
+        "volume": "1",
+        "author": "Brandon Sanderson",
+        "shelved": 11023,
+        "avg_rating": 4.65,
+        "ratings": 338118,
+        "published": 2010
+    },
+    {
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "series": "Miss Peregrine's Peculiar Children",
+        "volume": "1",
+        "author": "Ransom Riggs",
+        "shelved": 10875,
+        "avg_rating": 3.91,
+        "ratings": 1373191,
+        "published": 2011
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "series": "Harry Potter",
+        "volume": "1",
+        "author": "J.K. Rowling",
+        "shelved": 51626,
+        "avg_rating": 4.46,
+        "ratings": 6243996,
+        "published": 1997
+    },
+    {
+        "title": "The Hobbit",
+        "series": "Paperback",
+        "volume": null,
+        "author": "J.R.R. Tolkien",
+        "shelved": 44832,
+        "avg_rating": 4.25,
+        "ratings": 2926412,
+        "published": 1937
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "series": "Harry Potter",
+        "volume": "2",
+        "author": "J.K. Rowling",
+        "shelved": 43455,
+        "avg_rating": 4.39,
+        "ratings": 2515555,
+        "published": 1998
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "series": "Harry Potter",
+        "volume": "3",
+        "author": "J.K. Rowling",
+        "shelved": 43277,
+        "avg_rating": 4.54,
+        "ratings": 2552587,
+        "published": 1999
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "series": "Harry Potter",
+        "volume": "4",
+        "author": "J.K. Rowling",
+        "shelved": 41968,
+        "avg_rating": 4.54,
+        "ratings": 2424823,
+        "published": 2000
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "series": "Harry Potter",
+        "volume": "7",
+        "author": "J.K. Rowling",
+        "shelved": 40836,
+        "avg_rating": 4.62,
+        "ratings": 2481707,
+        "published": 2007
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "series": "Harry Potter",
+        "volume": "6",
+        "author": "J.K. Rowling",
+        "shelved": 40583,
+        "avg_rating": 4.55,
+        "ratings": 2361115,
+        "published": 2005
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "series": "Harry Potter",
+        "volume": "5",
+        "author": "J.K. Rowling",
+        "shelved": 40560,
+        "avg_rating": 4.48,
+        "ratings": 2398214,
+        "published": 2003
+    },
+    {
+        "title": "A Game of Thrones",
+        "series": "A Song of Ice and Fire",
+        "volume": "1",
+        "author": "George R.R. Martin",
+        "shelved": 39324,
+        "avg_rating": 4.45,
+        "ratings": 2183532,
+        "published": 1996
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "series": "The Lord of the Rings",
+        "volume": "1",
+        "author": "J.R.R. Tolkien",
+        "shelved": 34300,
+        "avg_rating": 4.34,
+        "ratings": 2419116,
+        "published": 1954
+    },
+    {
+        "title": "A Clash of Kings ",
+        "series": "A Song of Ice and Fire",
+        "volume": "2",
+        "author": "George R.R. Martin",
+        "shelved": 28461,
+        "avg_rating": 4.41,
+        "ratings": 810041,
+        "published": 1998
+    },
+    {
+        "title": "The Two Towers",
+        "series": "The Lord of the Rings",
+        "volume": "2",
+        "author": "J.R.R. Tolkien",
+        "shelved": 24535,
+        "avg_rating": 4.43,
+        "ratings": 716108,
+        "published": 1954
+    },
+    {
+        "title": "A Storm of Swords",
+        "series": "A Song of Ice and Fire",
+        "volume": "3",
+        "author": "George R.R. Martin",
+        "shelved": 23854,
+        "avg_rating": 4.54,
+        "ratings": 725504,
+        "published": 2000
+    },
+    {
+        "title": "The Name of the Wind",
+        "series": "The Kingkiller Chronicle",
+        "volume": "1",
+        "author": "Patrick Rothfuss",
+        "shelved": 23845,
+        "avg_rating": 4.55,
+        "ratings": 853410,
+        "published": 2007
+    },
+    {
+        "title": "The Return of the King",
+        "series": "The Lord of the Rings",
+        "volume": "3",
+        "author": "J.R.R. Tolkien",
+        "shelved": 23749,
+        "avg_rating": 4.52,
+        "ratings": 696098,
+        "published": 1955
+    },
+    {
+        "title": "A Feast for Crows",
+        "series": "A Song of Ice and Fire",
+        "volume": "4",
+        "author": "George R.R. Martin",
+        "shelved": 23200,
+        "avg_rating": 4.11,
+        "ratings": 700193,
+        "published": 2005
+    },
+    {
+        "title": "The Lion, the Witch and the Wardrobe",
+        "series": "Chronicles of Narnia",
+        "volume": "1",
+        "author": "C.S. Lewis",
+        "shelved": 21217,
+        "avg_rating": 4.2,
+        "ratings": 2130800,
+        "published": 1950
+    },
+    {
+        "title": "Eragon",
+        "series": "The Inheritance Cycle",
+        "volume": "1",
+        "author": "Christopher Paolini",
+        "shelved": 20556,
+        "avg_rating": 3.88,
+        "ratings": 1566392,
+        "published": 2002
+    },
+    {
+        "title": "The Golden Compass",
+        "series": "His Dark Materials",
+        "volume": "1",
+        "author": "Philip Pullman",
+        "shelved": 20316,
+        "avg_rating": 3.95,
+        "ratings": 1382909,
+        "published": 1995
+    },
+    {
+        "title": "A Dance with Dragons",
+        "series": "A Song of Ice and Fire",
+        "volume": "5",
+        "author": "George R.R. Martin",
+        "shelved": 19981,
+        "avg_rating": 4.31,
+        "ratings": 648945,
+        "published": 2011
+    },
+    {
+        "title": "American Gods",
+        "series": "Kindle Edition",
+        "volume": null,
+        "author": "Neil Gaiman",
+        "shelved": 18376,
+        "avg_rating": 4.14,
+        "ratings": 328663,
+        "published": 2001
+    },
+    {
+        "title": "The Lightning Thief",
+        "series": "Percy Jackson and the Olympians",
+        "volume": "1",
+        "author": "Rick Riordan",
+        "shelved": 18329,
+        "avg_rating": 4.24,
+        "ratings": 2101508,
+        "published": 2005
+    },
+    {
+        "title": "The Final Empire",
+        "series": "Mistborn",
+        "volume": "1",
+        "author": "Brandon Sanderson",
+        "shelved": 17664,
+        "avg_rating": 4.43,
+        "ratings": 461099,
+        "published": 2006
+    },
+    {
+        "title": "Twilight",
+        "series": "Twilight",
+        "volume": "1",
+        "author": "Stephenie Meyer",
+        "shelved": 15518,
+        "avg_rating": 3.58,
+        "ratings": 4927874,
+        "published": 2005
+    },
+    {
+        "title": "City of Bones",
+        "series": "The Mortal Instruments",
+        "volume": "1",
+        "author": "Cassandra Clare",
+        "shelved": 15402,
+        "avg_rating": 4.12,
+        "ratings": 1887158,
+        "published": 2007
+    },
+    {
+        "title": "The Lord of the Rings",
+        "series": "The Lord of the Rings",
+        "volume": "1-3",
+        "author": "J.R.R. Tolkien",
+        "shelved": 14828,
+        "avg_rating": 4.47,
+        "ratings": 615810,
+        "published": 1955
+    },
+    {
+        "title": "Neverwhere",
+        "series": "London Below",
+        "volume": "1",
+        "author": "Neil Gaiman",
+        "shelved": 14513,
+        "avg_rating": 4.18,
+        "ratings": 584063,
+        "published": 1996
+    },
+    {
+        "title": "The Eye of the World",
+        "series": "Wheel of Time",
+        "volume": "1",
+        "author": "Robert Jordan",
+        "shelved": 14503,
+        "avg_rating": 4.19,
+        "ratings": 449006,
+        "published": 1990
+    },
+    {
+        "title": "The Wise Man's Fear",
+        "series": "The Kingkiller Chronicle",
+        "volume": "2",
+        "author": "Patrick Rothfuss",
+        "shelved": 14257,
+        "avg_rating": 4.58,
+        "ratings": 402946,
+        "published": 2011
+    },
+    {
+        "title": "Throne of Glass",
+        "series": "Throne of Glass",
+        "volume": "1",
+        "author": "Sarah J. Maas",
+        "shelved": 13524,
+        "avg_rating": 4.23,
+        "ratings": 707914,
+        "published": 2012
+    },
+    {
+        "title": "Graceling",
+        "series": "Graceling Realm",
+        "volume": "1",
+        "author": "Kristin Cashore",
+        "shelved": 13400,
+        "avg_rating": 4.1,
+        "ratings": 589594,
+        "published": 2008
+    },
+    {
+        "title": "The Night Circus",
+        "series": "Hardcover",
+        "volume": null,
+        "author": "Erin Morgenstern",
+        "shelved": 13357,
+        "avg_rating": 4.03,
+        "ratings": 932332,
+        "published": 2011
+    },
+    {
+        "title": "The Princess Bride",
+        "series": "Paperback",
+        "volume": null,
+        "author": "William Goldman",
+        "shelved": 13036,
+        "avg_rating": 4.26,
+        "ratings": 1139016,
+        "published": 1973
+    },
+    {
+        "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "series": "Mass Market Paperback",
+        "volume": null,
+        "author": "Terry Pratchett",
+        "shelved": 12618,
+        "avg_rating": 4.26,
+        "ratings": 585145,
+        "published": 1990
+    },
+    {
+        "title": "The Color of Magic",
+        "series": "Discworld",
+        "volume": "1; Rincewind #1",
+        "author": "Terry Pratchett",
+        "shelved": 12472,
+        "avg_rating": 4.02,
+        "ratings": 349123,
+        "published": 1983
+    },
+    {
+        "title": "The Subtle Knife",
+        "series": "His Dark Materials",
+        "volume": "2",
+        "author": "Philip Pullman",
+        "shelved": 12179,
+        "avg_rating": 4.28,
+        "ratings": 4234,
+        "published": 1997
+    },
+    {
+        "title": "Harry Potter and the Cursed Child - Parts One and Two",
+        "series": "Harry Potter",
+        "volume": "8",
+        "author": "John Tiffany",
+        "shelved": 12119,
+        "avg_rating": 3.67,
+        "ratings": 708031,
+        "published": 2016
+    },
+    {
+        "title": "The Sea of Monsters",
+        "series": "Percy Jackson and the Olympians",
+        "volume": "2",
+        "author": "Rick Riordan",
+        "shelved": 11929,
+        "avg_rating": 4.24,
+        "ratings": 756674,
+        "published": 2006
+    },
+    {
+        "title": "The Lies of Locke Lamora",
+        "series": "Gentleman Bastard",
+        "volume": "1",
+        "author": "Scott Lynch",
+        "shelved": 11923,
+        "avg_rating": 4.3,
+        "ratings": 19746,
+        "published": 2006
+    },
+    {
+        "title": "Assassin's Apprentice",
+        "series": "Farseer Trilogy",
+        "volume": "1",
+        "author": "Robin Hobb",
+        "shelved": 11912,
+        "avg_rating": 4.21,
+        "ratings": 81110,
+        "published": 1995
+    },
+    {
+        "title": "Eldest",
+        "series": "The Inheritance Cycle",
+        "volume": "2",
+        "author": "Christopher Paolini",
+        "shelved": 11749,
+        "avg_rating": 3.97,
+        "ratings": 358489,
+        "published": 2005
+    },
+    {
+        "title": "The Silmarillion",
+        "series": "Middle-Earth Universe",
+        "volume": null,
+        "author": "J.R.R. Tolkien",
+        "shelved": 11628,
+        "avg_rating": 3.87,
+        "ratings": 256100,
+        "published": 1977
+    },
+    {
+        "title": "The Hunger Games",
+        "series": "The Hunger Games",
+        "volume": "1",
+        "author": "Suzanne Collins",
+        "shelved": 11625,
+        "avg_rating": 4.33,
+        "ratings": 6376722,
+        "published": 2008
+    },
+    {
+        "title": "The Magician's Nephew",
+        "series": "Chronicles of Narnia",
+        "volume": "6",
+        "author": "C.S. Lewis",
+        "shelved": 11580,
+        "avg_rating": 4.03,
+        "ratings": 410771,
+        "published": 1955
+    },
+    {
+        "title": "The Well of Ascension",
+        "series": "Mistborn",
+        "volume": "2",
+        "author": "Brandon Sanderson",
+        "shelved": 11321,
+        "avg_rating": 4.36,
+        "ratings": 245951,
+        "published": 2007
+    },
+    {
+        "title": "New Moon",
+        "series": "Twilight",
+        "volume": "2",
+        "author": "Stephenie Meyer",
+        "shelved": 11156,
+        "avg_rating": 3.52,
+        "ratings": 1516026,
+        "published": 2006
+    },
+    {
+        "title": "The Amber Spyglass",
+        "series": "His Dark Materials",
+        "volume": "3",
+        "author": "Philip Pullman",
+        "shelved": 11130,
+        "avg_rating": 4.08,
+        "ratings": 281000,
+        "published": 2000
+    },
+    {
+        "title": "A Wizard of Earthsea",
+        "series": "Earthsea Cycle",
+        "volume": "1",
+        "author": "Ursula K. Le Guin",
+        "shelved": 11037,
+        "avg_rating": 4.0,
+        "ratings": 290460,
+        "published": 1968
+    },
+    {
+        "title": "The Way of Kings",
+        "series": "The Stormlight Archive",
+        "volume": "1",
+        "author": "Brandon Sanderson",
+        "shelved": 11023,
+        "avg_rating": 4.65,
+        "ratings": 338118,
+        "published": 2010
+    },
+    {
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "series": "Miss Peregrine's Peculiar Children",
+        "volume": "1",
+        "author": "Ransom Riggs",
+        "shelved": 10875,
+        "avg_rating": 3.91,
+        "ratings": 1373191,
+        "published": 2011
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "series": "Harry Potter",
+        "volume": "1",
+        "author": "J.K. Rowling",
+        "shelved": 51626,
+        "avg_rating": 4.46,
+        "ratings": 6243996,
+        "published": 1997
+    },
+    {
+        "title": "The Hobbit",
+        "series": "Paperback",
+        "volume": null,
+        "author": "J.R.R. Tolkien",
+        "shelved": 44832,
+        "avg_rating": 4.25,
+        "ratings": 2926412,
+        "published": 1937
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "series": "Harry Potter",
+        "volume": "2",
+        "author": "J.K. Rowling",
+        "shelved": 43455,
+        "avg_rating": 4.39,
+        "ratings": 2515555,
+        "published": 1998
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "series": "Harry Potter",
+        "volume": "3",
+        "author": "J.K. Rowling",
+        "shelved": 43277,
+        "avg_rating": 4.54,
+        "ratings": 2552587,
+        "published": 1999
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "series": "Harry Potter",
+        "volume": "4",
+        "author": "J.K. Rowling",
+        "shelved": 41968,
+        "avg_rating": 4.54,
+        "ratings": 2424823,
+        "published": 2000
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "series": "Harry Potter",
+        "volume": "7",
+        "author": "J.K. Rowling",
+        "shelved": 40836,
+        "avg_rating": 4.62,
+        "ratings": 2481707,
+        "published": 2007
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "series": "Harry Potter",
+        "volume": "6",
+        "author": "J.K. Rowling",
+        "shelved": 40583,
+        "avg_rating": 4.55,
+        "ratings": 2361115,
+        "published": 2005
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "series": "Harry Potter",
+        "volume": "5",
+        "author": "J.K. Rowling",
+        "shelved": 40560,
+        "avg_rating": 4.48,
+        "ratings": 2398214,
+        "published": 2003
+    },
+    {
+        "title": "A Game of Thrones",
+        "series": "A Song of Ice and Fire",
+        "volume": "1",
+        "author": "George R.R. Martin",
+        "shelved": 39324,
+        "avg_rating": 4.45,
+        "ratings": 2183532,
+        "published": 1996
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "series": "The Lord of the Rings",
+        "volume": "1",
+        "author": "J.R.R. Tolkien",
+        "shelved": 34300,
+        "avg_rating": 4.34,
+        "ratings": 2419116,
+        "published": 1954
+    },
+    {
+        "title": "A Clash of Kings ",
+        "series": "A Song of Ice and Fire",
+        "volume": "2",
+        "author": "George R.R. Martin",
+        "shelved": 28461,
+        "avg_rating": 4.41,
+        "ratings": 810041,
+        "published": 1998
+    },
+    {
+        "title": "The Two Towers",
+        "series": "The Lord of the Rings",
+        "volume": "2",
+        "author": "J.R.R. Tolkien",
+        "shelved": 24535,
+        "avg_rating": 4.43,
+        "ratings": 716108,
+        "published": 1954
+    },
+    {
+        "title": "A Storm of Swords",
+        "series": "A Song of Ice and Fire",
+        "volume": "3",
+        "author": "George R.R. Martin",
+        "shelved": 23854,
+        "avg_rating": 4.54,
+        "ratings": 725504,
+        "published": 2000
+    },
+    {
+        "title": "The Name of the Wind",
+        "series": "The Kingkiller Chronicle",
+        "volume": "1",
+        "author": "Patrick Rothfuss",
+        "shelved": 23845,
+        "avg_rating": 4.55,
+        "ratings": 853410,
+        "published": 2007
+    },
+    {
+        "title": "The Return of the King",
+        "series": "The Lord of the Rings",
+        "volume": "3",
+        "author": "J.R.R. Tolkien",
+        "shelved": 23749,
+        "avg_rating": 4.52,
+        "ratings": 696098,
+        "published": 1955
+    },
+    {
+        "title": "A Feast for Crows",
+        "series": "A Song of Ice and Fire",
+        "volume": "4",
+        "author": "George R.R. Martin",
+        "shelved": 23200,
+        "avg_rating": 4.11,
+        "ratings": 700193,
+        "published": 2005
+    },
+    {
+        "title": "The Lion, the Witch and the Wardrobe",
+        "series": "Chronicles of Narnia",
+        "volume": "1",
+        "author": "C.S. Lewis",
+        "shelved": 21217,
+        "avg_rating": 4.2,
+        "ratings": 2130800,
+        "published": 1950
+    },
+    {
+        "title": "Eragon",
+        "series": "The Inheritance Cycle",
+        "volume": "1",
+        "author": "Christopher Paolini",
+        "shelved": 20556,
+        "avg_rating": 3.88,
+        "ratings": 1566392,
+        "published": 2002
+    },
+    {
+        "title": "The Golden Compass",
+        "series": "His Dark Materials",
+        "volume": "1",
+        "author": "Philip Pullman",
+        "shelved": 20316,
+        "avg_rating": 3.95,
+        "ratings": 1382909,
+        "published": 1995
+    },
+    {
+        "title": "A Dance with Dragons",
+        "series": "A Song of Ice and Fire",
+        "volume": "5",
+        "author": "George R.R. Martin",
+        "shelved": 19981,
+        "avg_rating": 4.31,
+        "ratings": 648945,
+        "published": 2011
+    },
+    {
+        "title": "American Gods",
+        "series": "Kindle Edition",
+        "volume": null,
+        "author": "Neil Gaiman",
+        "shelved": 18376,
+        "avg_rating": 4.14,
+        "ratings": 328663,
+        "published": 2001
+    },
+    {
+        "title": "The Lightning Thief",
+        "series": "Percy Jackson and the Olympians",
+        "volume": "1",
+        "author": "Rick Riordan",
+        "shelved": 18329,
+        "avg_rating": 4.24,
+        "ratings": 2101508,
+        "published": 2005
+    },
+    {
+        "title": "The Final Empire",
+        "series": "Mistborn",
+        "volume": "1",
+        "author": "Brandon Sanderson",
+        "shelved": 17664,
+        "avg_rating": 4.43,
+        "ratings": 461099,
+        "published": 2006
+    },
+    {
+        "title": "Twilight",
+        "series": "Twilight",
+        "volume": "1",
+        "author": "Stephenie Meyer",
+        "shelved": 15518,
+        "avg_rating": 3.58,
+        "ratings": 4927874,
+        "published": 2005
+    },
+    {
+        "title": "City of Bones",
+        "series": "The Mortal Instruments",
+        "volume": "1",
+        "author": "Cassandra Clare",
+        "shelved": 15402,
+        "avg_rating": 4.12,
+        "ratings": 1887158,
+        "published": 2007
+    },
+    {
+        "title": "The Lord of the Rings",
+        "series": "The Lord of the Rings",
+        "volume": "1-3",
+        "author": "J.R.R. Tolkien",
+        "shelved": 14828,
+        "avg_rating": 4.47,
+        "ratings": 615810,
+        "published": 1955
+    },
+    {
+        "title": "Neverwhere",
+        "series": "London Below",
+        "volume": "1",
+        "author": "Neil Gaiman",
+        "shelved": 14513,
+        "avg_rating": 4.18,
+        "ratings": 584063,
+        "published": 1996
+    },
+    {
+        "title": "The Eye of the World",
+        "series": "Wheel of Time",
+        "volume": "1",
+        "author": "Robert Jordan",
+        "shelved": 14503,
+        "avg_rating": 4.19,
+        "ratings": 449006,
+        "published": 1990
+    },
+    {
+        "title": "The Wise Man's Fear",
+        "series": "The Kingkiller Chronicle",
+        "volume": "2",
+        "author": "Patrick Rothfuss",
+        "shelved": 14257,
+        "avg_rating": 4.58,
+        "ratings": 402946,
+        "published": 2011
+    },
+    {
+        "title": "Throne of Glass",
+        "series": "Throne of Glass",
+        "volume": "1",
+        "author": "Sarah J. Maas",
+        "shelved": 13524,
+        "avg_rating": 4.23,
+        "ratings": 707914,
+        "published": 2012
+    },
+    {
+        "title": "Graceling",
+        "series": "Graceling Realm",
+        "volume": "1",
+        "author": "Kristin Cashore",
+        "shelved": 13400,
+        "avg_rating": 4.1,
+        "ratings": 589594,
+        "published": 2008
+    },
+    {
+        "title": "The Night Circus",
+        "series": "Hardcover",
+        "volume": null,
+        "author": "Erin Morgenstern",
+        "shelved": 13357,
+        "avg_rating": 4.03,
+        "ratings": 932332,
+        "published": 2011
+    },
+    {
+        "title": "The Princess Bride",
+        "series": "Paperback",
+        "volume": null,
+        "author": "William Goldman",
+        "shelved": 13036,
+        "avg_rating": 4.26,
+        "ratings": 1139016,
+        "published": 1973
+    },
+    {
+        "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "series": "Mass Market Paperback",
+        "volume": null,
+        "author": "Terry Pratchett",
+        "shelved": 12618,
+        "avg_rating": 4.26,
+        "ratings": 585145,
+        "published": 1990
+    },
+    {
+        "title": "The Color of Magic",
+        "series": "Discworld",
+        "volume": "1; Rincewind #1",
+        "author": "Terry Pratchett",
+        "shelved": 12472,
+        "avg_rating": 4.02,
+        "ratings": 349123,
+        "published": 1983
+    },
+    {
+        "title": "The Subtle Knife",
+        "series": "His Dark Materials",
+        "volume": "2",
+        "author": "Philip Pullman",
+        "shelved": 12179,
+        "avg_rating": 4.28,
+        "ratings": 4234,
+        "published": 1997
+    },
+    {
+        "title": "Harry Potter and the Cursed Child - Parts One and Two",
+        "series": "Harry Potter",
+        "volume": "8",
+        "author": "John Tiffany",
+        "shelved": 12119,
+        "avg_rating": 3.67,
+        "ratings": 708031,
+        "published": 2016
+    },
+    {
+        "title": "The Sea of Monsters",
+        "series": "Percy Jackson and the Olympians",
+        "volume": "2",
+        "author": "Rick Riordan",
+        "shelved": 11929,
+        "avg_rating": 4.24,
+        "ratings": 756674,
+        "published": 2006
+    },
+    {
+        "title": "The Lies of Locke Lamora",
+        "series": "Gentleman Bastard",
+        "volume": "1",
+        "author": "Scott Lynch",
+        "shelved": 11923,
+        "avg_rating": 4.3,
+        "ratings": 19746,
+        "published": 2006
+    },
+    {
+        "title": "Assassin's Apprentice",
+        "series": "Farseer Trilogy",
+        "volume": "1",
+        "author": "Robin Hobb",
+        "shelved": 11912,
+        "avg_rating": 4.21,
+        "ratings": 81110,
+        "published": 1995
+    },
+    {
+        "title": "Eldest",
+        "series": "The Inheritance Cycle",
+        "volume": "2",
+        "author": "Christopher Paolini",
+        "shelved": 11749,
+        "avg_rating": 3.97,
+        "ratings": 358489,
+        "published": 2005
+    },
+    {
+        "title": "The Silmarillion",
+        "series": "Middle-Earth Universe",
+        "volume": null,
+        "author": "J.R.R. Tolkien",
+        "shelved": 11628,
+        "avg_rating": 3.87,
+        "ratings": 256100,
+        "published": 1977
+    },
+    {
+        "title": "The Hunger Games",
+        "series": "The Hunger Games",
+        "volume": "1",
+        "author": "Suzanne Collins",
+        "shelved": 11625,
+        "avg_rating": 4.33,
+        "ratings": 6376722,
+        "published": 2008
+    },
+    {
+        "title": "The Magician's Nephew",
+        "series": "Chronicles of Narnia",
+        "volume": "6",
+        "author": "C.S. Lewis",
+        "shelved": 11580,
+        "avg_rating": 4.03,
+        "ratings": 410771,
+        "published": 1955
+    },
+    {
+        "title": "The Well of Ascension",
+        "series": "Mistborn",
+        "volume": "2",
+        "author": "Brandon Sanderson",
+        "shelved": 11321,
+        "avg_rating": 4.36,
+        "ratings": 245951,
+        "published": 2007
+    },
+    {
+        "title": "New Moon",
+        "series": "Twilight",
+        "volume": "2",
+        "author": "Stephenie Meyer",
+        "shelved": 11156,
+        "avg_rating": 3.52,
+        "ratings": 1516026,
+        "published": 2006
+    },
+    {
+        "title": "The Amber Spyglass",
+        "series": "His Dark Materials",
+        "volume": "3",
+        "author": "Philip Pullman",
+        "shelved": 11130,
+        "avg_rating": 4.08,
+        "ratings": 281000,
+        "published": 2000
+    },
+    {
+        "title": "A Wizard of Earthsea",
+        "series": "Earthsea Cycle",
+        "volume": "1",
+        "author": "Ursula K. Le Guin",
+        "shelved": 11037,
+        "avg_rating": 4.0,
+        "ratings": 290460,
+        "published": 1968
+    },
+    {
+        "title": "The Way of Kings",
+        "series": "The Stormlight Archive",
+        "volume": "1",
+        "author": "Brandon Sanderson",
+        "shelved": 11023,
+        "avg_rating": 4.65,
+        "ratings": 338118,
+        "published": 2010
+    },
+    {
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "series": "Miss Peregrine's Peculiar Children",
+        "volume": "1",
+        "author": "Ransom Riggs",
+        "shelved": 10875,
+        "avg_rating": 3.91,
+        "ratings": 1373191,
+        "published": 2011
+    }
+]
