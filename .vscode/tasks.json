@@ -9,11 +9,11 @@
             "command": "python",
             "args": [
                 "-i",
-               {
-                 "value": "${file}",
-                 "quoting": "escape"
-               }
-]
+                {
+                    "value": "${file}",
+                    "quoting": "escape"
+                }
+            ]
         }
     ]
 }

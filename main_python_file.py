@@ -6,7 +6,7 @@ import sys
 import requests
 
 frontpage_url = 'https://www.goodreads.com/shelf/show/fantasy'
-downloaded_sites_directory = 'prenesene_strani'
+downloaded_sites_directory = 'downloaded_sites'
 
 regex = re.compile(
     r'<a title="(?P<title>.*?)\s?(\((?P<series>.*?)?\))?".+?'
@@ -15,31 +15,44 @@ regex = re.compile(
     r'avg rating (?P<avg_rating>\d\.\d\d).+?'
     r'\s*?(?P<ratings>\d.*?\d) ratings.+?'
     r'published (?P<published>.*?)\s',
-    re.DOTALL
+    flags=re.DOTALL
 )
+# Creates directory to save files to
+def create_directory(dir_name):
+    directory = os.path.dirname(dir_name)
+    if directory:
+        os.makedirs(directory, exist_ok=True)
 
+# Turns html file into string
 def read_file_to_str(directory, filename):
     with open(os.path.join(directory, filename), 'r', encoding='utf8') as dat:
         return dat.read()
 
-# test of wether the code is working
+# Tests wether the code is working or not
 def get_data_from_text(text):
-    return [{x['title'], x['author'], x['shelved'], x['avg_rating'], x['ratings'], x['published'], x['series']} for x in re.finditer(regex, text)]
-    
+    return [separate_data(x) for x in re.finditer(regex, text)]
+
+# Downloads the website from given url and saves it in directory under given name
 def download_website(url, directory, filename, force_download=False):
     try:
-        print('Shranjujem stran {} ...'.format(url), end='')
+        print('Saving page {} ...'.format(url), end='')
         sys.stdout.flush()
         if os.path.isfile(filename) and not force_download:
-            print('Stran že shranjena')
+            print('Page already saved')
             return
         r = requests.get(url)
     except requests.exceptions.ConnectionError:
-        print('Stran ne obstaja')
+        print('Page does not exist')
     else:
         with open(os.path.join(directory, filename), 'w', encoding='utf-8') as datoteka:
             datoteka.write(r.text)
-            print('Shranjena')
+            print('Page saved')
 
-download_website(frontpage_url, downloaded_sites_directory, 'goodreads.html', True)
+# Separates page into dictionaries of regex maches
+def separate_data(match):
+    book_data = match.groupdict()
+    return book_data
+
+# Code to be excecuted
+download_website(frontpage_url, downloaded_sites_directory, 'goodreads.html')
 d = get_data_from_text(read_file_to_str(downloaded_sites_directory, 'goodreads.html'))
