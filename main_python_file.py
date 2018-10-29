@@ -98,7 +98,7 @@ def separate_joint_data(books):
 # Downloads the pages in given range, sorts the data and appends it to books
 books = []
 
-for page_num in range(1, 4):
+for page_num in range(1, 26):
     site_name = 'page_{}.html'.format(page_num)
     download_website(merge_url_and_number(frontpage_url, page_num), downloaded_sites_directory, site_name)
     for book in get_data_from_text(read_file_to_str(downloaded_sites_directory, site_name)):
