@@ -10,7 +10,9 @@ downloaded_sites_directory = 'downloaded_sites'
 edited_data_directory = 'edited_data'
 
 regex = re.compile(
-    r'<a class="bookTitle" href=".*?">(?P<title>.*?)\s?(\((?P<series>.+?)(, #(?P<volume>.+?))?\))?</a>.+?'
+    r'<a class="bookTitle" href=".*?">(?P<title>.*?)\s?'
+    r'(\((?P<series>.+?)(, #(?P<volume>.+?))?'
+    r'(; (?P<alt_series>.+?) #(?P<alt_volume>.+?))?\))?</a>.+?'
     r'<span itemprop="name">(?P<author>.*?)</span>.+?'
     r'\(shelved (?P<shelved>\d+?) times as <em>fantasy</em>\)</a>.+?'
     r'avg rating (?P<avg_rating>\d\.\d\d).+?'
@@ -59,10 +61,6 @@ def separate_data(match):
 def merge_url_and_number(url, num):
     return url + '?page={}'.format(num)
 
-# Downloads all pages in given range
-def download_sites_in_range(url):
-    pass
-
 # Writes file to .csv and .json
 def write_to_csv(dictionary, fields, directory, filename):
     create_directory(directory)
@@ -83,6 +81,12 @@ def sort_data(dic):
     dic['avg_rating'] = float(dic['avg_rating'])
     dic['ratings'] = int(dic['ratings'].replace(',', ''))
     dic['published'] = int(dic['published'])
+    try:
+        dic['volume'] = int(dic['volume'])
+    except (TypeError, ValueError):
+        dic['volume'] = None
+    if not dic['volume']:
+        dic['series'] = None
 
 # Separates data about authors and series
 def separate_joint_data(books):
@@ -91,7 +95,10 @@ def separate_joint_data(books):
     for book in books:
         for author in book['author'].split(', '):
             authors.append({'title': book['title'], 'author': author})
-        series.append({'series': book['series'], 'title': book['title'], 'volume': book['volume']})
+        if book['series']:
+            series.append({'series': book['series'], 'title': book['title'], 'volume': book['volume']})
+        if book['alt_series']:
+            series.append({'series': book['alt_series'], 'title': book['title'], 'volume': book['alt_volume']})
 
     return authors, series
 
@@ -107,7 +114,7 @@ for page_num in range(1, 26):
 
 # Writes the data in separate .csv files
 authors, series = separate_joint_data(books)
-write_to_json(books, edited_data_directory, 'book.json')
+write_to_json(books, edited_data_directory, 'books.json')
 write_to_csv(books, ['title', 'shelved', 'avg_rating', 'ratings', 'published'], edited_data_directory, 'books.csv')
 write_to_csv(authors, ['title', 'author'], edited_data_directory, 'authors.csv')
 write_to_csv(series, ['series', 'title', 'volume'], edited_data_directory, 'series.csv')
