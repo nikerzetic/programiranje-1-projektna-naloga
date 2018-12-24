@@ -36,14 +36,14 @@ def get_data_from_text(text):
 
 # Downloads the website from given url and saves it in directory under given name
 def download_website(url, directory, filename, force_download=False):
-    create_directory(directory)        
+    create_directory(directory)
     try:
         print('Saving page {} ...'.format(url), end='')
         sys.stdout.flush()
         if os.path.isfile(os.path.join(directory, filename)) and not force_download:
             print('Page already saved')
             return
-        r = requests.get(url)
+        r = requests.get(url, allow_redirects=True)
     except requests.exceptions.ConnectionError:
         print('Page does not exist')
     else:
@@ -107,7 +107,7 @@ books = []
 
 for page_num in range(1, 26):
     site_name = 'page_{}.html'.format(page_num)
-    download_website(merge_url_and_number(frontpage_url, page_num), downloaded_sites_directory, site_name)
+    download_website(merge_url_and_number(frontpage_url, page_num), downloaded_sites_directory, site_name, True)
     for book in get_data_from_text(read_file_to_str(downloaded_sites_directory, site_name)):
         sort_data(book)
         books.append(book)
