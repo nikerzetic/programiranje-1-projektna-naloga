@@ -80,7 +80,10 @@ def sort_data(dic):
     dic['shelved'] = int(dic['shelved'])
     dic['avg_rating'] = float(dic['avg_rating'])
     dic['ratings'] = int(dic['ratings'].replace(',', ''))
-    dic['published'] = int(dic['published'])
+    try:
+        dic['published'] = int(dic['published'])
+    except (TypeError, ValueError):
+        dic['published'] = None
     try:
         dic['volume'] = int(dic['volume'])
     except (TypeError, ValueError):
@@ -107,10 +110,11 @@ books = []
 
 for page_num in range(1, 26):
     site_name = 'page_{}.html'.format(page_num)
-    download_website(merge_url_and_number(frontpage_url, page_num), downloaded_sites_directory, site_name, True)
+    download_website(merge_url_and_number(frontpage_url, page_num), downloaded_sites_directory, site_name)
     for book in get_data_from_text(read_file_to_str(downloaded_sites_directory, site_name)):
         sort_data(book)
-        books.append(book)
+        if book['published']:
+            books.append(book)
 
 # Writes the data in separate .csv files
 authors, series = separate_joint_data(books)
