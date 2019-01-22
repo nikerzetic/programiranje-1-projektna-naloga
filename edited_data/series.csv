@@ -1,2132 +1,1066 @@
-series,title,volume
-
-Harry Potter,Harry Potter and the Sorcerer's Stone,1
-
-Harry Potter,Harry Potter and the Chamber of Secrets,2
-
-Harry Potter,Harry Potter and the Prisoner of Azkaban,3
-
-Harry Potter,Harry Potter and the Goblet of Fire,4
-
-Harry Potter,Harry Potter and the Deathly Hallows,7
-
-Harry Potter,Harry Potter and the Half-Blood Prince,6
-
-Harry Potter,Harry Potter and the Order of the Phoenix,5
-
-A Song of Ice and Fire,A Game of Thrones,1
-
-The Lord of the Rings,The Fellowship of the Ring,1
-
-A Song of Ice and Fire,A Clash of Kings ,2
-
-The Lord of the Rings,The Two Towers,2
-
-The Kingkiller Chronicle,The Name of the Wind,1
-
-A Song of Ice and Fire,A Storm of Swords,3
-
-The Lord of the Rings,The Return of the King,3
-
-A Song of Ice and Fire,A Feast for Crows,4
-
-Chronicles of Narnia,"The Lion, the Witch and the Wardrobe",1
-
-The Inheritance Cycle,Eragon,1
-
-His Dark Materials,The Golden Compass,1
-
-A Song of Ice and Fire,A Dance with Dragons,5
-
-Percy Jackson and the Olympians,The Lightning Thief,1
-
-Mistborn,The Final Empire,1
-
-Twilight,Twilight,1
-
-The Mortal Instruments,City of Bones,1
-
-London Below,Neverwhere,1
-
-Wheel of Time,The Eye of the World,1
-
-The Kingkiller Chronicle,The Wise Man's Fear,2
-
-Throne of Glass,Throne of Glass,1
-
-Graceling Realm,Graceling,1
-
-Discworld,The Color of Magic,1
-
-"Rincewind,",The Color of Magic,1
-
-His Dark Materials,The Subtle Knife,2
-
-Harry Potter,Harry Potter and the Cursed Child: Parts One and Two,8
-
-Gentleman Bastard,The Lies of Locke Lamora,1
-
-Percy Jackson and the Olympians,The Sea of Monsters,2
-
-Farseer Trilogy,Assassin's Apprentice,1
-
-The Inheritance Cycle,Eldest,2
-
-The Hunger Games,The Hunger Games,1
-
-Chronicles of Narnia,The Magician's Nephew,6
-
-Mistborn,The Well of Ascension,2
-
-The Stormlight Archive,The Way of Kings,1
-
-Twilight,New Moon,2
-
-His Dark Materials,The Amber Spyglass,3
-
-Earthsea Cycle,A Wizard of Earthsea,1
-
-A Court of Thorns and Roses,A Court of Thorns and Roses,1
-
-Time Quintet,A Wrinkle in Time,1
-
-Shades of Magic,A Darker Shade of Magic,1
-
-Miss Peregrine's Peculiar Children,Miss Peregrine's Home for Peculiar Children,1
-
-Grisha Verse,Shadow and Bone,1
-
-Six of Crows,Six of Crows,1
-
-Percy Jackson and the Olympians,The Titan's Curse,3
-
-Twilight,Eclipse,3
-
-Chronicles of Narnia,Prince Caspian,2
-
-Percy Jackson and the Olympians,The Battle of the Labyrinth,4
-
-The Mortal Instruments,City of Ashes,2
-
-Chronicles of Narnia,The Voyage of the Dawn Treader,3
-
-Mistborn,The Hero of Ages,3
-
-Twilight,Breaking Dawn,4
-
-"Bone,",Daughter of Smoke &amp; Bone,1
-
-Howl's Moving Castle,Howl's Moving Castle,1
-
-The Dark Tower,The Gunslinger,1
-
-Percy Jackson and the Olympians,The Last Olympian,5
-
-The Mortal Instruments,City of Glass,3
-
-The Inheritance Cycle,Brisingr,3
-
-Wheel of Time,The Great Hunt,2
-
-Chronicles of Narnia,The Horse and His Boy,5
-
-The Hunger Games,Catching Fire,2
-
-Throne of Glass,Crown of Midnight,2
-
-Wheel of Time,The Dragon Reborn,3
-
-The Wicked Years,Wicked: The Life and Times of the Wicked Witch of the West,1
-
-The Dresden Files,Storm Front,1
-
-Chronicles of Narnia,The Silver Chair,4
-
-Red Queen,Red Queen,1
-
-Sword of Truth,Wizard's First Rule,1
-
-Inkworld,Inkheart,1
-
-The Hunger Games,Mockingjay,3
-
-The Infernal Devices,Clockwork Angel,1
-
-Artemis Fowl,Artemis Fowl,1
-
-Chronicles of Narnia,The Last Battle,7
-
-The First Law,The Blade Itself,1
-
-Study,Poison Study,1
-
-Avalon,The Mists of Avalon,1
-
-Wheel of Time,The Shadow Rising,4
-
-The Heroes of Olympus,The Lost Hero,1
-
-Throne of Glass,Heir of Fire,3
-
-Death,Mort,1
-
-"Discworld,",Mort,4
-
-A Court of Thorns and Roses,A Court of Mist and Fury,2
-
-The Lunar Chronicles,Cinder,1
-
-Elantris,Elantris,1
-
-The Raven Cycle,The Raven Boys,1
-
-Farseer Trilogy,Royal Assassin,2
-
-The Mortal Instruments,City of Fallen Angels,4
-
-An Ember in the Ashes,An Ember in the Ashes,1
-
-Wheel of Time,The Fires of Heaven,5
-
-The Inheritance Cycle,Inheritance,4
-
-Discworld,The Light Fantastic,2
-
-Rincewind,The Light Fantastic,2
-
-Discworld,Equal Rites,3
-
-"Witches,",Equal Rites,1
-
-Wheel of Time,Lord of Chaos,6
-
-All Souls Trilogy,A Discovery of Witches,1
-
-Graceling Realm,Fire,2
-
-Discworld,Guards! Guards!,8
-
-City Watch,Guards! Guards!,1
-
-The Stormlight Archive,Words of Radiance,2
-
-Throne of Glass,Queen of Shadows,4
-
-Farseer Trilogy,Assassin's Quest,3
-
-Wheel of Time,A Crown of Swords,7
-
-Night Angel,The Way of Shadows,1
-
-The Broken Earth,The Fifth Season,1
-
-Grisha Verse,Siege and Storm,2
-
-Song of the Lioness,Alanna: The First Adventure,1
-
-Temeraire,His Majesty's Dragon,1
-
-Six of Crows,Crooked Kingdom,2
-
-Mistborn,The Alloy of Law,4
-
-The Heroes of Olympus,The Son of Neptune,2
-
-Seraphina,Seraphina,1
-
-Wheel of Time,The Path of Daggers,8
-
-The Mortal Instruments,City of Lost Souls,5
-
-Malazan Book of the Fallen,Gardens of the Moon,1
-
-The Infernal Devices,Clockwork Prince,2
-
-The Belgariad,Pawn of Prophecy,1
-
-Wheel of Time,Winter's Heart,9
-
-The Original Shannara Trilogy,The Sword of Shannara,1
-
-Warbreaker,Warbreaker,1
-
-Outlander,Outlander,1
-
-Gentleman Bastard,Red Seas Under Red Skies,2
-
-A Court of Thorns and Roses,A Court of Wings and Ruin,3
-
-Discworld,Wyrd Sisters,6
-
-Witches,Wyrd Sisters,2
-
-The Dark Tower,The Drawing of the Three,2
-
-"Bone,",Days of Blood &amp; Starlight,2
-
-Divergent,Divergent,1
-
-The Dresden Files,Fool Moon,2
-
-Oz,The Wonderful Wizard of Oz,1
-
-Demon Cycle,The Warded Man,1
-
-The Heroes of Olympus,The Mark of Athena,3
-
-The Last Unicorn,The Last Unicorn,1
-
-The Infernal Devices,Clockwork Princess,3
-
-The Witcher,The Last Wish,1
-
-Bartimaeus,The Amulet of Samarkand,1
-
-Shades of Magic,A Gathering of Shadows,2
-
-Winternight Trilogy,The Bear and the Nightingale,1
-
-Wheel of Time,Crossroads of Twilight,10
-
-Dragonriders of Pern,Dragonflight,1
-
-Codex Alera,Furies of Calderon,1
-
-The Lunar Chronicles,Scarlet,2
-
-Inheritance,The Hundred Thousand Kingdoms,1
-
-The Broken Empire,Prince of Thorns,1
-
-Grisha Verse,Ruin and Rising,3
-
-Wheel of Time,Knife of Dreams,11
-
-Wheel of Time,The Gathering Storm,12
-
-Phèdre's Trilogy,Kushiel's Dart,1
-
-Simon Snow,Carry On,1
-
-The First Law,Before They Are Hanged,2
-
-The Golem and the Jinni,The Golem and the Jinni,1
-
-Earthsea Cycle,The Tombs of Atuan,2
-
-The Queen's Thief,The Thief,1
-
-Abhorsen,Lirael,2
-
-Graceling Realm,Bitterblue,3
-
-The Queen of the Tearling,The Queen of the Tearling,1
-
-The Iron Fey,The Iron King,1
-
-The Wrath and the Dawn,The Wrath and the Dawn,1
-
-Throne of Glass,Empire of Storms,5
-
-Gemma Doyle,A Great and Terrible Beauty,1
-
-The Kane Chronicles,The Red Pyramid,1
-
-The Mortal Instruments,City of Heavenly Fire,6
-
-Strange the Dreamer,Strange the Dreamer,1
-
-Sword of Truth,Stone of Tears,2
-
-Discworld,Sourcery,5
-
-Rincewind,Sourcery,3
-
-Caster Chronicles,Beautiful Creatures,1
-
-Sookie Stackhouse,Dead Until Dark,1
-
-Discworld,Going Postal,33
-
-"Moist von Lipwig,",Going Postal,1
-
-Lightbringer,The Black Prism,1
-
-Discworld,Reaper Man,11
-
-"Death,",Reaper Man,2
-
-Wheel of Time,Towers of Midnight,13
-
-Discworld,The Wee Free Men,30
-
-"Tiffany Aching,",The Wee Free Men,1
-
-The Heroes of Olympus,The House of Hades,4
-
-The Dresden Files,Grave Peril,3
-
-The Dark Tower,The Waste Lands,3
-
-The Raven Cycle,The Dream Thieves,2
-
-The First Law,Last Argument of Kings,3
-
-Legacy of Orïsha,Children of Blood and Bone,1
-
-Abhorsen,Abhorsen,3
-
-Legacy of Orïsha,Children of Blood and Bone,1
-
-The Lunar Chronicles,Cress,3
-
-Discworld,Hogfather,20
-
-"Death,",Hogfather,4
-
-The Wolves of Mercy Falls,Shiver,1
-
-Vampire Academy,Vampire Academy,1
-
-Sevenwaters,Daughter of the Forest ,1
-
-The Folk of the Air,The Cruel Prince,1
-
-The Belgariad,Magician's Gambit,3
-
-Liveship Traders,Ship of Magic,1
-
-Song of the Lioness,In the Hand of the Goddess,2
-
-Black Magician Trilogy,The Magicians' Guild,1
-
-The Belgariad,Queen of Sorcery,2
-
-Enchanted Forest Chronicles,Dealing with Dragons,1
-
-The Young Elites,The Young Elites,1
-
-Caraval,Caraval,1
-
-Discworld,Men at Arms,15
-
-City Watch,Men at Arms,2
-
-Study,Magic Study,2
-
-Discworld,Pyramids,7
-
-Earthsea Cycle,The Farthest Shore,3
-
-The Dark Tower,Wizard and Glass,4
-
-The Belgariad,Castle of Wizardry,4
-
-The Belgariad,Enchanters' End Game,5
-
-Tawny Man,Fool's Errand,1
-
-Dragonlance: Chronicles,Dragons of Autumn Twilight ,1
-
-"Bone,",Dreams of Gods &amp; Monsters,3
-
-Discworld,Witches Abroad,12
-
-Witches,Witches Abroad,3
-
-The Winner's Trilogy,The Winner's Curse,1
-
-Watership Down,Watership Down,1
-
-Gentleman Bastard,The Republic of Thieves,3
-
-Wheel of Time,A Memory of Light,14
-
-The Dresden Files,Summer Knight,4
-
-The Chronicles of Prydain,The Book of Three,1
-
-The Riftwar Saga,Magician: Apprentice,1
-
-Wayward Children,Every Heart a Doorway,1
-
-Shades of Magic,A Conjuring of Light,3
-
-Discworld,Feet of Clay,19
-
-"City Watch,",Feet of Clay,3
-
-"Memory, Sorrow, and Thorn",The Dragonbone Chair,1
-
-The Lunar Chronicles,Winter,4
-
-Redwall,Redwall,1
-
-Discworld,Soul Music,16
-
-"Death,",Soul Music,3
-
-The Raven Cycle,"Blue Lily, Lily Blue",3
-
-Song of the Lioness,The Woman Who Rides Like a Man,3
-
-The Secrets of the Immortal Nicholas Flamel,The Alchemyst,1
-
-Song of the Lioness,Lioness Rampant,4
-
-Inkworld,Inkspell,2
-
-Damar,The Blue Sword,1
-
-Lumatere Chronicles,Finnikin of the Rock,1
-
-The Heroes of Olympus,The Blood of Olympus,5
-
-Seven Realms,The Demon King,1
-
-Artemis Fowl,The Arctic Incident,2
-
-Immortals,Wild Magic,1
-
-His Fair Assassin,Grave Mercy,1
-
-The Reckoners,Steelheart,1
-
-Night Angel,Shadow's Edge,2
-
-"Hush, Hush","Hush, Hush",1
-
-Thursday Next,The Eyre Affair,1
-
-Hitchhiker's Guide to the Galaxy,The Hitchhiker's Guide to the Galaxy,1
-
-Raven's Shadow,Blood Song,1
-
-Discworld,Moving Pictures,10
-
-"Industrial Revolution,",Moving Pictures,1
-
-Falling Kingdoms,Falling Kingdoms,1
-
-Miss Peregrine's Peculiar Children,Hollow City,2
-
-The Magicians,The Magician King,2
-
-Parasol Protectorate,Soulless,1
-
-Discworld,Eric,9
-
-Rincewind,Eric,4
-
-The Dresden Files,Death Masks,5
-
-Discworld,Lords and Ladies,14
-
-Witches,Lords and Ladies,4
-
-The Remnant Chronicles,The Kiss of Deception,1
-
-Sword of Truth,Temple of the Winds,4
-
-Tawny Man,Golden Fool,2
-
-The Original Shannara Trilogy,The Elfstones of Shannara ,2
-
-The Dark Tower,Wolves of the Calla,5
-
-Forgotten Realms: The Dark Elf Trilogy,Homeland,1
-
-"Legend of Drizzt,",Homeland,1
-
-Discworld,Thud!,34
-
-City Watch,Thud!,7
-
-Mistborn,Shadows of Self,5
-
-The Host,The Host,1
-
-"the End of Days,",Angelfall,1
-
-Discworld,The Fifth Elephant,24
-
-"City Watch,",The Fifth Elephant,5
-
-Discworld,Thief of Time,26
-
-"Death,",Thief of Time,5
-
-Red Queen,Glass Sword,2
-
-Ranger's Apprentice,The Ruins of Gorlan,1
-
-Shattered Sea,Half a King,1
-
-Fablehaven,Fablehaven,1
-
-Eon,Eon: Dragoneye Reborn,1
-
-Night Angel,Beyond the Shadows,3
-
-The Dark Tower,Song of Susannah,6
-
-Discworld,Monstrous Regiment,31
-
-"Industrial Revolution,",Monstrous Regiment,3
-
-Septimus Heap,Magyk,1
-
-Peter Grant,Rivers of London,1
-
-The Sandman,Preludes &amp; Nocturnes,1
-
-The Raven Cycle,The Raven King,4
-
-The Stormlight Archive,Oathbringer,3
-
-The Dresden Files,Blood Rites,6
-
-Snow Like Ashes,Snow Like Ashes,1
-
-The Dark Tower,The Dark Tower,7
-
-Fairyland,The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making,1
-
-Study,Fire Study,3
-
-The Books of Bayern,The Goose Girl,1
-
-Artemis Fowl,The Eternity Code,3
-
-Fallen,Fallen,1
-
-The Dresden Files,Dead Beat,7
-
-Discworld,A Hat Full of Sky,32
-
-"Tiffany Aching,",A Hat Full of Sky,2
-
-An Ember in the Ashes,A Torch Against the Night,2
-
-Discworld,Maskerade,18
-
-Witches,Maskerade,5
-
-Liveship Traders,The Mad Ship,2
-
-Discworld,The Truth,25
-
-"Industrial Revolution,",The Truth,2
-
-Discworld,Making Money,36
-
-"Moist Von Lipwig,",Making Money,2
-
-Witches,Carpe Jugulum,6
-
-Divergent,Insurgent,2
-
-World of the Five Gods,The Curse of Chalion,1
-
-Liveship Traders,Ship of Destiny,3
-
-Magnus Chase and the Gods of Asgard,The Sword of Summer,1
-
-All Souls Trilogy,Shadow of Night,2
-
-The Riftwar Saga,Silverthorn,3
-
-Sword of Truth,Soul of the Fire,5
-
-Codex Alera,Academ's Fury,2
-
-The Rithmatist,The Rithmatist,1
-
-Three Dark Crowns,Three Dark Crowns,1
-
-Wicked Lovely,Wicked Lovely,1
-
-The Malloreon,Guardians of the West,1
-
-The Dresden Files,Proven Guilty,8
-
-The Witchlands,Truthwitch,1
-
-Sword of Truth,Faith of the Fallen,6
-
-Temeraire,Throne of Jade,2
-
-The Dresden Files,White Night,9
-
-Sookie Stackhouse,Living Dead in Dallas,2
-
-Discworld,Wintersmith,35
-
-"Tiffany Aching,",Wintersmith,3
-
-Villains,Vicious,1
-
-Black Magician Trilogy,The Novice,2
-
-Protector of the Small,First Test,1
-
-The Iron Druid Chronicles,Hounded,1
-
-New Crobuzon,Perdido Street Station,1
-
-Bartimaeus,The Golem's Eye,2
-
-Fever,Darkfever,1
-
-Charlie Bucket,Charlie and the Chocolate Factory,1
-
-Dune Chronicles,Dune,1
-
-Discworld,The Last Continent,22
-
-Rincewind,The Last Continent,6
-
-Saga,"Saga, Vol. 1",1
-
-Mistborn,The Bands of Mourning,6
-
-Mercy Thompson,Moon Called,1
-
-Daughter of the Lioness,Trickster's Choice,1
-
-Black Magician Trilogy,The High Lord,3
-
-The Kane Chronicles,The Throne of Fire,2
-
-The Riftwar Saga,A Darkness At Sethanon,4
-
-Discworld,Snuff,39
-
-City Watch,Snuff,8
-
-Dragonlance: Chronicles,Dragons of Winter Night,2
-
-The Malloreon,King of the Murgos,2
-
-The Original Shannara Trilogy,The Wishsong of Shannara,3
-
-Monsters of Verity,This Savage Song,1
-
-Discworld,Unseen Academicals,37
-
-Rincewind,Unseen Academicals,8
-
-The Dresden Files,Turn Coat,11
-
-Immortals,Wolf-Speaker,2
-
-Demon Cycle,The Desert Spear,2
-
-Vampire Academy,Frostbite,2
-
-Dragonlance: Chronicles,Dragons of Spring Dawning,3
-
-Powder Mage,Promise of Blood,1
-
-Kate Daniels,Magic Bites,1
-
-The Ascendance Trilogy,The False Prince,1
-
-The Broken Earth,The Obelisk Gate,2
-
-Immortals,Emperor Mage,3
-
-Sword of Truth,The Pillars of Creation,7
-
-Beka Cooper,Terrier,1
-
-The Malloreon,Sorceress of Darshiva,4
-
-The Chronicles of Prydain,The Black Cauldron,2
-
-The Divine Cities,City of Stairs,1
-
-Sookie Stackhouse,Club Dead,3
-
-The Memoirs of Lady Trent,A Natural History of Dragons,1
-
-The Malloreon,Demon Lord of Karanda,3
-
-House of Night,Marked,1
-
-Codex Alera,Captain's Fury,4
-
-The Malloreon,The Seeress of Kell,5
-
-Throne of Glass,Tower of Dawn,6
-
-Green Rider,Green Rider,1
-
-The Chronicles of Thomas Covenant the Unbeliever,Lord Foul's Bane,1
-
-The Witcher,Blood of Elves,3
-
-The Goblin Emperor,The Goblin Emperor,1
-
-Inkworld,Inkdeath,3
-
-Malazan Book of the Fallen,Deadhouse Gates,2
-
-Ready Player One,Ready Player One,1
-
-The Dark Is Rising,"Over Sea, Under Stone",1
-
-The Invisible Library,The Invisible Library,1
-
-Harper Hall,Dragonsong,1
-
-Sookie Stackhouse,Dead to the World,4
-
-Discworld,I Shall Wear Midnight,38
-
-"Tiffany Aching,",I Shall Wear Midnight,4
-
-The Chronicles of the Black Company,The Black Company,1
-
-Time Quintet,A Wind in the Door,2
-
-Rain Wild Chronicles,The Dragon Keeper,1
-
-Forgotten Realms: The Dark Elf Trilogy,Exile,2
-
-"Legend of Drizzt,",Exile,2
-
-Princess Academy,Princess Academy,1
-
-Edelstein-Trilogie,Rubinrot,1
-
-Earthsea Cycle,Tehanu,4
-
-Heralds of Valdemar,Arrows of the Queen,1
-
-Howl's Moving Castle,Castle in the Air,2
-
-Vampire Academy,Shadow Kiss,3
-
-The Magicians,The Magician's Land,3
-
-Daughter of the Lioness,Trickster's Queen,2
-
-The Diviners,The Diviners,1
-
-The Paper Magician,The Paper Magician,1
-
-Protector of the Small,Squire,3
-
-Sword of Truth,Naked Empire,8
-
-The Queen's Thief,The Queen of Attolia,2
-
-Modern Faerie Tales,Tithe,1
-
-The Dresden Files,Cold Days,14
-
-The Bone Season,The Bone Season,1
-
-Protector of the Small,Lady Knight,4
-
-Protector of the Small,Page,2
-
-The Iron Fey,The Iron Daughter,2
-
-Forgotten Realms: The Dark Elf Trilogy,Sojourn,3
-
-"Legend of Drizzt,",Sojourn,3
-
-Gemma Doyle,Rebel Angels,2
-
-Phèdre's Trilogy,Kushiel's Chosen,2
-
-Chronicle of the Unhewn Throne,The Emperor's Blades,1
-
-Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,1
-
-Ender's Saga,Ender's Game,1
-
-Discworld,Interesting Times,17
-
-Rincewind,Interesting Times,5
-
-Sookie Stackhouse,Dead as a Doornail,5
-
-All Souls Trilogy,The Book of Life,3
-
-Forgotten Realms: Icewind Dale,The Crystal Shard,1
-
-"Legend of Drizzt,",The Crystal Shard,4
-
-The Trials of Apollo,The Hidden Oracle,1
-
-Circle of Magic,Sandry's Book,1
-
-Pern,Dragonquest,2
-
-Vampire Academy,Blood Promise,4
-
-Temeraire,Black Powder War,3
-
-Captive Prince,Captive Prince,1
-
-"Memory, Sorrow, and Thorn",Stone of Farewell,2
-
-Discworld,The Amazing Maurice and His Educated Rodents,28
-
-Sword of Truth,Chainfire,9
-
-The Book of Dust,La Belle Sauvage,1
-
-Underland Chronicles,Gregor the Overlander,1
-
-Hex Hall,Hex Hall,1
-
-Sookie Stackhouse,Definitely Dead,6
-
-The Kane Chronicles,The Serpent's Shadow,3
-
-Beastly,Beastly,1
-
-"Kendra Chronicles,",Beastly,1
-
-Nightrunner,Luck in the Shadows,1
-
-Miss Peregrine's Peculiar Children,Library of Souls,3
-
-Lightbringer,The Blinding Knife,2
-
-Saga o Wiedźminie,Miecz przeznaczenia,2
-
-Magic Kingdom of Landover,Magic Kingdom For Sale/Sold,1
-
-The Broken Empire,King of Thorns,2
-
-The Winner's Trilogy,The Winner's Crime,2
-
-Pern,The White Dragon,3
-
-The Chronicles of Prydain,The High King,5
-
-The Queen of the Tearling,The Invasion of the Tearling,2
-
-Divergent,Allegiant,3
-
-The Others,Written in Red,1
-
-Sword of Truth,Phantom,10
-
-Outlander,Dragonfly in Amber,2
-
-The Looking Glass Wars,The Looking Glass Wars,1
-
-Sookie Stackhouse,All Together Dead,7
-
-Wildwood,Wildwood Dancing,1
-
-The Checquy Files,The Rook,1
-
-Time Quintet,A Swiftly Tilting Planet,3
-
-Arthurian Saga,The Crystal Cave,1
-
-The Nevernight Chronicle,Nevernight,1
-
-The Two Princesses of Bamarre,The Two Princesses of Bamarre,1
-
-Vampire Academy,Spirit Bound,5
-
-Artemis Fowl,The Time Paradox,6
-
-The Star-Touched Queen,The Star-Touched Queen,1
-
-Harper Hall,Dragonsinger,2
-
-Malazan Book of the Fallen,Memories of Ice,3
-
-Flame in the Mist,Flame in the Mist,1
-
-Sword of Truth,Confessor,11
-
-Phèdre's Trilogy,Kushiel's Avatar,3
-
-Magisterium,The Iron Trial,1
-
-Vampire Academy,Last Sacrifice,6
-
-The Chronicles of Prydain,The Castle of Llyr,3
-
-Gemma Doyle,The Sweet Far Thing,3
-
-The Heir Chronicles,The Warrior Heir,1
-
-Sookie Stackhouse,From Dead to Worse,8
-
-Red Rising,Red Rising,1
-
-The Broken Earth,The Stone Sky,3
-
-Sookie Stackhouse,Dead and Gone,9
-
-The Maze Runner,The Maze Runner,1
-
-Splintered,Splintered,1
-
-The School for Good and Evil,The School for Good and Evil,1
-
-Dragonlance: Legends,Time of the Twins,1
-
-The Vampire Chronicles,The Vampire Lestat,2
-
-Throne of Glass,Kingdom of Ash,7
-
-First Law World,The Heroes,5
-
-Sevenwaters,Son of the Shadows,2
-
-The Chronicles of Prydain,Taran Wanderer,4
-
-The Dresden Files,Skin Game,15
-
-The Sandman,The Doll's House,2
-
-The Spiderwick Chronicles,The Field Guide,1
-
-The Wolves of Mercy Falls,Linger,2
-
-Lorien Legacies,I Am Number Four,1
-
-The Cinder Spires,The Aeronaut's Windlass,1
-
-The Iron Fey,The Iron Queen,3
-
-The Hazel Wood,The Hazel Wood,1
-
-Seven Realms,The Exiled Queen,2
-
-Ranger's Apprentice,The Burning Bridge,2
-
-The Elenium,The Ruby Knight,2
-
-Demon Cycle,The Daylight War,3
-
-Inheritance,The Broken Kingdoms,2
-
-The Immortals,Evermore,1
-
-Howl's Moving Castle,House of Many Ways,3
-
-Red Queen,King's Cage,3
-
-Saga,"Saga, Vol. 2",2
-
-Rincewind,The Last Hero,7
-
-The Queen's Thief,The King of Attolia,3
-
-Fire and Thorns,The Crown of Embers,2
-
-The Elenium,The Sapphire Rose,3
-
-Forgotten Realms: Icewind Dale,Streams of Silver,2
-
-"Legend of Drizzt,",Streams of Silver,5
-
-Redwall,Mossflower,2
-
-The Selection,The Selection,1
-
-Temeraire,Empire of Ivory,4
-
-Enchanted Forest Chronicles,Calling on Dragons,3
-
-Incarnations of Immortality,On a Pale Horse,1
-
-Shatter Me,Shatter Me,1
-
-Dreamblood,The Killing Moon,1
-
-Rain Wild Chronicles,Dragon Haven,2
-
-The Red Queen's War,Prince of Fools,1
-
-Beka Cooper,Bloodhound,2
-
-The Wicked Years,Son of a Witch,2
-
-Forgotten Realms: Icewind Dale,The Halfling's Gem,3
-
-"Legend of Drizzt,",The Halfling's Gem,6
-
-Mercy Thompson,Blood Bound,2
-
-The Malediction Trilogy,Stolen Songbird,1
-
-Saga o Wiedźminie,Czas pogardy,4
-
-The Great Library,Ink and Bone,1
-
-Dragonlance: Legends,War of the Twins,2
-
-Sookie Stackhouse,Dead in the Family,10
-
-Dragonlance: Legends,Test of the Twins,3
-
-Dragon Rider,Dragon Rider,1
-
-The Secrets of the Immortal Nicholas Flamel,The Magician,2
-
-The Winner's Trilogy,The Winner's Kiss,3
-
-Heritage of Shannara,The Scions of Shannara,1
-
-The Reckoners,Firefight,2
-
-The Elric Saga,Elric of Melniboné,1
-
-Enchanted Forest Chronicles,Talking to Dragons,4
-
-Wintersong,Wintersong,1
-
-Malazan Book of the Fallen,House of Chains,4
-
-The Half Bad Trilogy,Half Bad,1
-
-Chrestomanci,Charmed Life,1
-
-The Legends of the First Empire,Age of Myth,1
-
-World of the Five Gods,Paladin of Souls,2
-
-Tales of Alvin Maker,Seventh Son,1
-
-Lux,Obsidian,1
-
-"Hush, Hush",Crescendo,2
-
-Fever,Bloodfever,2
-
-Circle of Magic,Tris's Book,2
-
-Parasol Protectorate,Changeless,2
-
-The Hollows,Dead Witch Walking,1
-
-"the End of Days,",World After,2
-
-The Last Apprentice / Wardstone Chronicles,Revenge of the Witch,1
-
-Eon,Eona: The Last Dragoneye,2
-
-Leningrad Diptych,Deathless,1
-
-The Dagger and the Coin,The Dragon's Path,1
-
-The Poppy War,The Poppy War,1
-
-Mercy Thompson,Iron Kissed,3
-
-The Death Gate Cycle,Dragon Wing,1
-
-Codex Alera,Cursor's Fury,3
-
-The Drenai Saga,Legend,1
-
-Tales of the Otori,Across the Nightingale Floor,1
-
-The Sandman,Dream Country,3
-
-Darkest Powers,The Summoning,1
-
-Winternight Trilogy,The Girl in the Tower,2
-
-The Black Jewels,Heir to the Shadows,2
-
-A Series of Unfortunate Events,The Bad Beginning,1
-
-The Riyria Chronicles,The Crown Tower,1
-
-Incarceron,Incarceron,1
-
-Monstress,"Monstress, Vol. 1: Awakening",1
-
-Circle of Magic,Daja's Book,3
-
-Caster Chronicles,Beautiful Darkness,2
-
-Abhorsen,Clariel,4
-
-Heralds of Valdemar,Arrow's Flight,2
-
-Glass,Storm Glass,1
-
-House of Night,Betrayed,2
-
-Septimus Heap,Flyte,2
-
-Peter Grant,Moon Over Soho,2
-
-Heritage of Shannara,The Druid of Shannara,2
-
-Alice's Adventures in Wonderland,Through the Looking-Glass and What Alice Found There,2
-
-Circle of Magic,Briar's Book,4
-
-Soldier Son,Shaman's Crossing,1
-
-Wayward Children,Down Among the Sticks and Bones,2
-
-Outlander,Voyager,3
-
-Unearthly,Unearthly,1
-
-Heralds of Valdemar,Arrow's Fall,3
-
-Malazan Book of the Fallen,Midnight Tides,5
-
-Fablehaven,Rise of the Evening Star,2
-
-Wraith Kings,Radiance,1
-
-Captive Prince,Captive Prince: Volume Two,2
-
-Curse Workers,White Cat,1
-
-Greatcoats,Traitor's Blade,1
-
-The Iron Druid Chronicles,Hexed,2
-
-The Dark Artifices,Lord of Shadows,2
-
-The Black Jewels,Queen of the Darkness,3
-
-Saga,"Saga, Vol. 3",3
-
-The Lady Janies,My Lady Jane,1
-
-The Books of Pellinor,The Naming,1
-
-The Remnant Chronicles,The Heart of Betrayal,2
-
-The Iron Fey,The Iron Knight,4
-
-The Prince of Nothing,The Darkness That Comes Before,1
-
-Ranger's Apprentice,The Icebound Land,3
-
-First Law World,Red Country,6
-
-Heritage of Shannara,The Elf Queen of Shannara,3
-
-The Bird and the Sword Chronicles,The Bird and the Sword,1
-
-Heritage of Shannara,The Talismans of Shannara,4
-
-Glamourist Histories,Shades of Milk and Honey,1
-
-Shattered Sea,Half the World,2
-
-Seraphina,Shadow Scale,2
-
-Seven Realms,The Crimson Crown,4
-
-Temeraire,Victory of Eagles,5
-
-Lightbringer,The Broken Eye,3
-
-Artemis Fowl,The Atlantis Complex,7
-
-Kate Daniels,Magic Burns,2
-
-The Sandman,Season of Mists,4
-
-Saga o Wiedźminie,Chrzest ognia,5
-
-Cecelia and Kate,Sorcery &amp; Cecelia: or The Enchanted Chocolate Pot,1
-
-Fever,Shadowfever,5
-
-Xanth,The Source of Magic,2
-
-His Fair Assassin,Dark Triumph,2
-
-Rat Queens,"Rat Queens, Vol. 1: Sass &amp; Sorcery",1
-
-The Vampire Chronicles,The Queen of the Damned,3
-
-Sookie Stackhouse,Dead Reckoning,11
-
-The Last Dragonslayer,The Last Dragonslayer,1
-
-Black Dagger Brotherhood,Dark Lover,1
-
-Edelstein-Trilogie,Saphirblau,2
-
-The Dark is Rising,Silver on the Tree,5
-
-The Books of Bayern,Enna Burning,2
-
-The Empire Trilogy,Servant of the Empire,2
-
-Leviathan,Leviathan,1
-
-Mercy Thompson,Bone Crossed,4
-
-Chaos Walking,The Knife of Never Letting Go,1
-
-"Anita Blake, Vampire Hunter",Guilty Pleasures,1
-
-Ranger's Apprentice,The Battle for Skandia,4
-
-"Memory, Sorrow, and Thorn",To Green Angel Tower,3
-
-Fever,Dreamfever,4
-
-Five Hundred Kingdoms,The Fairy Godmother,1
-
-The Keys to the Kingdom,Mister Monday,1
-
-The Crescent Moon Kingdoms,Throne of the Crescent Moon,1
-
-The Tamuli,Domes of Fire,1
-
-Raven's Shadow,Tower Lord,2
-
-Skulduggery Pleasant,Skulduggery Pleasant,1
-
-House of Night,Chosen,3
-
-The Secrets of the Immortal Nicholas Flamel,The Sorceress,3
-
-Bloodlines,Bloodlines,1
-
-Magnus Chase and the Gods of Asgard,The Hammer of Thor,2
-
-Earthsea Cycle,The Other Wind,6
-
-Book of Ember,The City of Ember,1
-
-Imriel's Trilogy,Kushiel's Scion,1
-
-The Wolves of Mercy Falls,Forever,3
-
-Beka Cooper,Mastiff,3
-
-Fallen,Torment,2
-
-Parasol Protectorate,Blameless,3
-
-The Elemental Trilogy,The Burning Sky,1
-
-Falling Kingdoms,Rebel Spring,2
-
-The Chronicles of Thomas Covenant the Unbeliever,The Power That Preserves,3
-
-Wings,Wings,1
-
-Maximum Ride,The Angel Experiment,1
-
-Earthsea Cycle,Tales from Earthsea,5
-
-Young Wizards,So You Want to Be a Wizard,1
-
-Night Huntress,Halfway to the Grave,1
-
-"Omega,",Cry Wolf,1
-
-Captive Prince,Kings Rising,3
-
-The Fionavar Tapestry,The Wandering Fire,2
-
-The Tamuli,The Shining Ones,2
-
-Gormenghast,Titus Groan,1
-
-The Serpentwar Saga,Shadow of a Dark Queen,1
-
-The Princesses of Westfalin Trilogy,Princess of the Midnight Ball,1
-
-Chronicles of Elantra,Cast in Shadow,1
-
-Time Quintet,Many Waters,4
-
-The Talisman,The Talisman,1
-
-How to Train Your Dragon,How to Train Your Dragon,1
-
-The Fitz and The Fool,Fool's Quest ,2
-
-Mara Dyer,The Unbecoming of Mara Dyer,1
-
-Xanth,Castle Roogna,3
-
-The Darkest Minds,The Darkest Minds,1
-
-A Land Fit for Heroes,The Steel Remains,1
-
-Mercy Thompson,Silver Borne,5
-
-Fablehaven,Grip of the Shadow Plague,3
-
-Wicked Lovely,Ink Exchange,2
-
-The Tamuli,The Hidden City,3
-
-Kingmaker Chronicles,A Promise of Fire,1
-
-Everless,Everless,1
-
-Passenger,Passenger,1
-
-Women of the Otherworld,Bitten,1
-
-Akata Witch,Akata Witch,1
-
-The Queen of the Tearling,The Fate of the Tearling,3
-
-Malazan Book of the Fallen,Reaper's Gale,7
-
-The Dandelion Dynasty,The Grace of Kings,1
-
-Peter Grant,Whispers Under Ground,3
-
-Lumatere Chronicles,Froi of the Exiles,2
-
-The Tamír Triad,The Bone Doll's Twin,1
-
-Green Rider,First Rider's Call,2
-
-The Circle Opens,Magic Steps,1
-
-New Crobuzon,The Scar,2
-
-The Sandman,A Game of You,5
-
-Edelstein-Trilogie,Smaragdgrün,3
-
-"Hush, Hush",Silence,3
-
-House of Night,Untamed,4
-
-Inheritance,The Kingdom of Gods,3
-
-Air Awakens,Air Awakens,1
-
-Nightrunner,Stalking Darkness,2
-
-Redwall,Martin the Warrior,6
-
-Riverside,Swordspoint,1
-
-Rain Wild Chronicles,Blood of Dragons,4
-
-Saga o Wiedźminie,Wieża Jaskółki,6
-
-Krondor's Sons,Prince of the Blood,1
-
-Pern,Moreta: Dragonlady of Pern,7
-
-The Young Elites,The Midnight Star,3
-
-The Fionavar Tapestry,The Darkest Road,3
-
-The Riyria Revelations,The Crown Conspiracy,1
-
-Rats of NIMH,Mrs. Frisby and the Rats of NIMH,1
-
-"Grim,",Dreamer's Pool,1
-
-Septimus Heap,Physik,3
-
-The Lotus Wars,Stormdancer,1
-
-Kate Daniels,Magic Bleeds,4
-
-The Coldfire Trilogy,Black Sun Rising,1
-
-Saga,"Saga, Vol. 4",4
-
-The Iron Druid Chronicles,Hammered,3
-
-The Others,Murder of Crows,2
-
-DC Icons,Wonder Woman: Warbringer,1
-
-The Land of Stories,The Wishing Spell,1
-
-The Serpentwar Saga,Rise of a Merchant Prince,2
-
-Symphony of Ages,Rhapsody: Child of Blood,1
-
-Uglies,Uglies,1
-
-Malazan Book of the Fallen,Toll the Hounds,8
-
-Deverry,Daggerspell,1
-
-Every Day,Every Day,1
-
-The Secrets of the Immortal Nicholas Flamel,The Necromancer ,4
-
-Princess Irene and Curdie,The Princess and the Goblin ,1
-
-October Daye,Rosemary and Rue,1
-
-Imriel's Trilogy,Kushiel's Justice,2
-
-Paranormalcy,Paranormalcy,1
-
-Magonia,Magonia,1
-
-Forgotten Realms: Legacy of the Drow,The Legacy,1
-
-"Legend of Drizzt,",The Legacy,7
-
-The Tiger Saga,Tiger's Curse,1
-
-Tairen Soul,Lord of the Fading Lands,1
-
-The Reckoners,Calamity,3
-
-The Masquerade,The Traitor Baru Cormorant,1
-
-Mercy Thompson,River Marked,6
-
-The Crown's Game,The Crown's Game,1
-
-Outlander,Drums of Autumn,4
-
-Talon,Talon,1
-
-The Sandman,Fables &amp; Reflections,6
-
-Fablehaven,Secrets of the Dragon Sanctuary,4
-
-The Circle Opens,Street Magic,2
-
-"Kingmaker, Kingbreaker",The Innocent Mage,1
-
-The Spiderwick Chronicles,The Seeing Stone,2
-
-Krondor's Sons,The King's Buccaneer,2
-
-Soldier Son,Forest Mage,2
-
-Parasol Protectorate,Heartless,4
-
-Temeraire,Tongues of Serpents,6
-
-Avalon,Lady of Avalon,3
-
-Hex Hall,Demonglass,2
-
-Discworld,The Shepherd's Crown,41
-
-"Tiffany Aching,",The Shepherd's Crown,5
-
-The Edge,On the Edge,1
-
-Firelight,Firelight,1
-
-Redwall,Mariel of Redwall,4
-
-"the End of Days,",End of Days,3
-
-Legend,Legend,1
-
-The Band,Kings of the Wyld,1
-
-The Dresden Files,Small Favor,10
-
-The Circle Reforged,The Will of the Empress,1
-
-House of Night,Hunted,5
-
-The Queens of Renthia,The Queen of Blood ,1
-
-Sookie Stackhouse,Deadlocked,12
-
-Forgotten Realms: Legacy of the Drow,Starless Night,2
-
-"Legend of Drizzt,",Starless Night,8
-
-Ranger's Apprentice,The Siege of Macindaw,6
-
-Abraham Lincoln: Vampire Hunter,Abraham Lincoln: Vampire Hunter,1
-
-The Second Chronicles of Thomas Covenant,The Wounded Land,1
-
-Xanth,Centaur Aisle,4
-
-The Lynburn Legacy,Unspoken,1
-
-The Serpentwar Saga,Rage of a Demon King,3
-
-Wayward Children,Beneath the Sugar Sky,3
-
-Covenant,Half-Blood,1
-
-Kate Daniels,Magic Slays,5
-
-Pride and Prejudice and Zombies,Pride and Prejudice and Zombies,1
-
-A Thousand Nights,A Thousand Nights,1
-
-Demon Cycle,The Skull Throne,4
-
-Peter Grant,Broken Homes,4
-
-Avalon,The Forest House,2
-
-Fablehaven,Keys to the Demon Prison,5
-
-Strange the Dreamer,Muse of Nightmares,2
-
-An Ember in the Ashes,A Reaper at the Gates,3
-
-The Sandman,Brief Lives,7
-
-Court,Crown Duel,1-2
-
-Malazan Book of the Fallen,Dust of Dreams,9
-
-The Traitor Son Cycle,The Red Knight,1
-
-Healer,Scent of Magic,2
-
-Summoner,The Novice,1
-
-Caster Chronicles,Beautiful Chaos,3
-
-Incarnations of Immortality,Bearing an Hourglass,2
-
-Forgotten Realms: Legacy of the Drow,Siege of Darkness,3
-
-"Legend of Drizzt,",Siege of Darkness,9
-
-Powder Mage,The Crimson Campaign,2
-
-The Sarantine Mosaic,Sailing to Sarantium,1
-
-Matched,Matched,1
-
-Traitor Spy Trilogy,The Ambassador's Mission,1
-
-Empirium,Furyborn,1
-
-Valdemar: Vows and Honor,The Oathbound,1
-
-Seven Realms,The Gray Wolf Throne,3
-
-Redwall,Salamandastron,5
-
-Saga o Wiedźminie,Pani Jeziora,7
-
-Derkholm,Dark Lord of Derkholm,1
-
-The Circle Opens,Cold Fire,3
-
-Voyage of the Jerle Shannara,Ilse Witch,1
-
-Valdemar: Mage Winds,Winds of Change,2
-
-Shattered Sea,Half a War,3
-
-Age of the Five,Priestess of the White,1
-
-Spiritwalker,Cold Magic,1
-
-Myth Adventures,Another Fine Myth,1
-
-Books of Faerie,Lament: The Faerie Queen's Deception,1
-
-The History of Middle-Earth,"The Book of Lost Tales, Part One",1
-
-Fire and Thorns,The Girl of Fire and Thorns,1
-
-Dragon Slippers,Dragon Slippers,1
-
-The Sandman,World's End,8
-
-Artemis Fowl,The Last Guardian,8
-
-Monsters of Verity,Our Dark Duet,2
-
-Malazan Book of the Fallen,The Crippled God,10
-
-Shadowfell,Shadowfell,1
-
-The Books of Bayern,River Secrets,3
-
-Lumatere Chronicles,Quintana of Charyn,3
-
-Xanth,Night Mare,6
-
-Thursday Next,Something Rotten,4
-
-Bloodlines,The Golden Lily,2
-
-"Void,",Running with the Demon,1
-
-Lux,Onyx,2
-
-"Co.,",The Screaming Staircase,1
-
-Anna,Anna Dressed in Blood,1
-
-Damar,The Hero and the Crown,2
-
-The Orphan's Tales,In the Night Garden,1
-
-The Iron Druid Chronicles,Tricked,4
-
-The Dresden Files,Changes,12
-
-The Falconer,The Falconer,1
-
-The Selection,The Elite,2
-
-Saga,"Saga, Vol. 5",5
-
-His Fair Assassin,Mortal Heart,3
-
-The Second Chronicles of Thomas Covenant,The One Tree,2
-
-Mr. Penumbra's 24-Hour Bookstore,Mr. Penumbra's 24-Hour Bookstore,1
-
-Septimus Heap,Queste,4
-
-The Others,Vision in Silver,3
-
-Innkeeper Chronicles,Clean Sweep,1
-
-Darkest Powers,The Awakening,2
-
-The Death Gate Cycle,Serpent Mage,4
-
-Who Fears Death,Who Fears Death,1
-
-Glass,Sea Glass,2
-
-The Death Gate Cycle,Fire Sea,3
-
-The Ascendance Trilogy,The Runaway King,2
-
-The Bone Witch,The Bone Witch,1
-
-The Faithful and the Fallen,Malice,1
-
-Shadowmarch,Shadowmarch,1
-
-The Serpentwar Saga,Shards of a Broken Crown,4
-
-Tales of Alvin Maker,Red Prophet,2
-
-The Sandman,The Kindly Ones,9
-
-The Secrets of the Immortal Nicholas Flamel,The Warlock,5
-
-The Trials of Apollo,The Dark Prophecy,2
-
-Starcrossed,Starcrossed,1
-
-The Passage,The Passage,1
-
-Magic Ex Libris,Libriomancer,1
-
-The Fitz and the Fool,Assassin's Fate,3
-
-The Assassin's Curse,The Assassin's Curse,1
-
-House of Night,Tempted,6
-
-Mercy Thompson,Frost Burned,7
-
-Parasol Protectorate,Timeless,5
-
-The Gold Seer Trilogy,Walk on Earth a Stranger ,1
-
-The Spiderwick Chronicles,Lucinda's Secret,3
-
-Ranger's Apprentice,Erak's Ransom,7
-
-Lives of the Mayfair Witches,The Witching Hour,1
-
-"Memory, Sorrow, and Thorn","To Green Angel Tower, Part 2",3
-
-The Girl from Everywhere,The Girl from Everywhere,1
-
-Under the Never Sky,Under the Never Sky,1
-
-The Chronicles of Master Li and Number Ten Ox,Bridge of Birds,1
-
-Jackaby,Jackaby,1
-
-The Remnant Chronicles,The Beauty of Darkness,3
-
-Chrestomanci,The Lives of Christopher Chant,2
-
-Nightrunner,Traitor's Moon,3
-
-The Wrath and the Dawn,The Rose &amp; the Dagger,2
-
-Fallen,Passion,3
-
-The Dark Artifices,Lady Midnight,1
-
-Of Fire and Stars,Of Fire and Stars,1
-
-World of the Five Gods,The Hallowed Hunt,3
-
-Valdemar: Vows and Honor,Oathbreakers,2
-
-Magic Kingdom of Landover,Wizard at Large,3
-
-Ravenspire,The Shadow Queen,1
-
-The Syrena Legacy,Of Poseidon,1
-
-Soldier Son,Renegade's Magic,3
-
-Renegades,Renegades,1
-
-The Spiderwick Chronicles,The Ironwood Tree,4
-
-Naamah Trilogy,Naamah's Kiss,1
-
-Pern,The Masterharper of Pern,15
-
-The Licanius Trilogy,The Shadow of What Was Lost,1
-
-Three Dark Crowns,One Dark Throne,2
-
-The Forbidden Wish,The Forbidden Wish,1
-
-"Wizard,",Witch &amp; Wizard,1
-
-Guild Hunter,Angels' Blood,1
-
-Bloodlines,The Indigo Spell,3
-
-The Death Gate Cycle,The Hand of Chaos,5
-
-The Sandman,The Wake,10
-
-The Black Jewels,Dreams Made Flesh,5
-
-Goddess Test,The Goddess Test,1
-
-The Wicked Years,A Lion Among Men,3
-
-Green Rider,The High King's Tomb,3
-
-Rain Wild Chronicles,City of Dragons,3
-
-Grim Reaper,A Dirty Job,1
-
-The Heir Chronicles,The Wizard Heir,2
-
-Mirrorworld,Reckless,1
-
-Rebel Belle,Rebel Belle,1
-
-The Death Gate Cycle,Into the Labyrinth,6
-
-Blue Bloods,Blue Bloods,1
-
-Wayfarer Redemption,The Wayfarer Redemption,1
-
-Sookie Stackhouse,Dead Ever After,13
-
-Voyage of the Jerle Shannara,Antrax,2
-
-Dragonlance: The Second Generation,Dragons of Summer Flame,2
-
-The Sin Eater’s Daughter,The Sin Eater’s Daughter,1
-
-Forgotten Realms: Legacy of the Drow,Passage to Dawn,4
-
-"Legend of Drizzt,",Passage to Dawn,10
-
-The Paper Magician,The Glass Magician,2
-
-The Emperor's Edge,The Emperor's Edge,1
-
-Magnus Chase and the Gods of Asgard,The Ship of the Dead,3
-
-Kate Daniels,Magic Rises,6
-
-Peter Grant,Foxglove Summer,5
-
-Merry Gentry,A Kiss of Shadows,1
-
-The Spiderwick Chronicles,The Wrath of Mulgarath,5
-
-Mordant's Need,The Mirror of Her Dreams,1
-
-The Death Gate Cycle,The Seventh Gate,7
-
-Fantasyland,Wildest Dreams,1
-
-Elemental Blessings,Troubled Waters,1
-
-Master of Crows,Master of Crows,1
-
-Newsoul,Incarnate,1
-
-The Deed of Paksenarrion,Sheepfarmer's Daughter,1
-
-Savvy,Savvy,1
-
-Alcatraz,Alcatraz Versus the Evil Librarians,1
-
-Genesis of Shannara,Armageddon's Children,1
-
-The Black Jewels,The Invisible Ring,4
-
-Under Heaven,Under Heaven,1
-
-The Orphan Queen,The Orphan Queen,1
-
-The Chronicles of Alice,Alice,1
-
-The Young Elites,The Rose Society,2
-
-Frontier Magic,Thirteenth Child,1
-
-The Books of Bayern,Forest Born,4
-
-The Vampire Chronicles,The Tale of the Body Thief,4
-
-"Hush, Hush",Finale,4
-
-Darkest Powers,The Reckoning,3
-
-Pottermore Presents,"Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists",2
-
-Sevenwaters,Heir to Sevenwaters,4
-
-Arthurian Saga,The Hollow Hills,2
-
-Tales of the Kin,Among Thieves,1
-
-Incarnations of Immortality,Wielding a Red Sword,4
-
-Lady Helen,The Dark Days Club,1
-
-Snow Like Ashes,Ice Like Fire,2
-
-Charley Davidson,First Grave on the Right,1
-
-Ranger's Apprentice,The Kings of Clonmel,8
-
-The Selection,The One,3
-
-"Legend of Drizzt,",The Dark Elf Trilogy Collector's Edition,1-3
-
-Caster Chronicles,Beautiful Redemption,4
-
-The Voyage of the Jerle Shannara,Morgawr,3
-
-Pottermore Presents,Hogwarts: An Incomplete and Unreliable Guide,3
-
-Caraval,Legendary,2
-
-Delirium,Delirium,1
-
-Temeraire,Crucible of Gold,7
-
-The Maze Runner,The Scorch Trials,2
-
-Wildwood Chronicles,Wildwood,1
-
-Sandman Slim,Sandman Slim,1
-
-Shades of Grey,Shades of Grey,1
-
-Red Rising,Golden Son,2
-
-The Iron Druid Chronicles,Trapped,5
-
-Carve the Mark,Carve the Mark,1
-
-Books of Arilland,Enchanted,1
-
-Dirk Gently,The Long Dark Tea-Time of the Soul,2
-
-Valdemar: Mage Storms,Storm Rising,2
-
-The Children of the Red King,Midnight for Charlie Bone,1
-
-The Riyria Chronicles,The Rose and the Thorn,2
-
-Blood of Eden,The Immortal Rules,1
-
-Hex Hall,Spell Bound,3
-
-Modern Faerie Tales,Ironside,3
-
-Kingdom on Fire,A Shadow Bright and Burning,1
-
-Chronicle of the Unhewn Throne,The Providence of Fire,2
-
-Powder Mage,The Autumn Republic,3
-
-The Left Hand of God,The Left Hand of God,1
-
-Books of the Raksura,The Cloud Roads,1
-
-Redwall,The Bellmaker,7
-
-Lightbringer,The Blood Mirror,4
-
-"Bone,",Night of Cake &amp; Puppets,2.5
-
-Shatter Me,Unravel Me,2
-
-The Invisible Library,The Masked City,2
-
-Conclave of Shadows,Talon of the Silver Hawk,1
-
-The Others,Marked in Flesh,4
-
-Outlander,The Fiery Cross,5
-
-Underland Chronicles,Gregor and the Prophecy of Bane,2
-
-"Study,",Shadow Study,4
-
-House of Night,Burned,7
-
-Warriors,Into the Wild,1
-
-Wicked Lovely,Fragile Eternity,3
-
-Pern,The Renegades of Pern,10
-
-Defy,Defy,1
-
-"Omega,",Hunting Ground,2
-
-Red Queen,War Storm,4
-
-Glass,Spy Glass,3
-
-The Books of Babel,Senlin Ascends,1
-
-Codex Alera,First Lord's Fury,6
-
-Hurog,Dragon Bones,1
-
-The Secrets of the Immortal Nicholas Flamel,The Enchantress,6
-
-Incarnations of Immortality,Being a Green Mother,5
-
-Lorien Legacies,The Power of Six,2
-
-The Forest of Hands and Teeth,The Forest of Hands and Teeth,1
-
-Valdemar: Mage Storms,Storm Breaking,3
-
-Trylle,Torn,2
-
-Twelve Houses,Mystic and Rider,1
-
-Redwall,Lord Brocktree,13
-
-Arc of a Scythe,Scythe,1
-
-The Once and Future King,The Sword in the Stone,1
-
-Falling Kingdoms,Frozen Tides,4
-
-Halfblood Chronicles,The Elvenbane,1
-
-Rise of the Empress,Forest of a Thousand Lanterns,1
-
-Forgotten Realms: Hunter's Blades,The Thousand Orcs,1
-
-"Legend of Drizzt,",The Thousand Orcs,14
-
-Black Dagger Brotherhood,Lover Eternal,2
-
-Five Hundred Kingdoms,One Good Knight,2
-
-Hitchhiker's Guide to the Galaxy,The Restaurant at the End of the Universe,2
-
-Pegasus,Pegasus,1
-
-Kingdoms of Thorn and Bone,The Briar King,1
-
-Redwall,Outcast of Redwall,8
-
-Waverley Family,Garden Spells,1
-
-Brooklyn Brujas,Labyrinth Lost,1
-
-Mythago Wood,Mythago Wood,1
-
-The Keys to the Kingdom,Grim Tuesday,2
-
-Tales of the Otori,Grass for His Pillow,2
-
-Valdemar: Mage Wars,The White Gryphon,2
-
-Forgotten Realms: Paths of Darkness,The Silent Blade,1
-
-"Legend of Drizzt,",The Silent Blade,11
-
-The Witchlands,Windwitch,2
-
-The Chronicles of the Black Company,Shadows Linger,2
-
-The Riftwar Legacy,Krondor: The Betrayal,1
-
-The Hollows,"The Good, the Bad, and the Undead",2
-
-Healer,Touch of Power,1
-
-The Looking Glass Wars,Seeing Redd,2
-
-Everneath,Everneath,1
-
-Night Vale,Welcome to Night Vale,1
-
-Nevermoor,Nevermoor: The Trials of Morrigan Crow,1
-
-Heralds of Valdemar,Exile's Honor,6
-
-Thursday Next,First Among Sequels,5
-
-Furthermore,Furthermore,1
-
-The Immortals,Blue Moon,2
-
-The Daevabad Trilogy,The City of Brass,1
-
-Kate Daniels,Magic Strikes,3
-
-Chronicles of the Warlands,Warprize ,1
-
-Lux,Opal,3
-
-Tales of Magic,Half Magic,1
-
-Frostblood Saga,Frostblood,1
-
-"Anita Blake, Vampire Hunter",Circus of the Damned,3
-
-The Hedge Knight Graphic Novels,The Hedge Knight,1
-
-Samaria,Archangel,1
-
-The Books of Pellinor,The Riddle,2
-
-Defiance,Defiance,1
-
-Sea of Ink and Gold,The Reader,1
-
-Kingfountain,The Queen's Poisoner,1
-
+series,title,volume
+Harry Potter,Harry Potter and the Sorcerer's Stone,1
+Harry Potter,Harry Potter and the Chamber of Secrets,2
+Harry Potter,Harry Potter and the Prisoner of Azkaban,3
+Harry Potter,Harry Potter and the Goblet of Fire,4
+Harry Potter,Harry Potter and the Deathly Hallows,7
+Harry Potter,Harry Potter and the Half-Blood Prince,6
+Harry Potter,Harry Potter and the Order of the Phoenix,5
+A Song of Ice and Fire,A Game of Thrones,1
+The Lord of the Rings,The Fellowship of the Ring,1
+A Song of Ice and Fire,A Clash of Kings ,2
+The Lord of the Rings,The Two Towers,2
+The Kingkiller Chronicle,The Name of the Wind,1
+A Song of Ice and Fire,A Storm of Swords,3
+The Lord of the Rings,The Return of the King,3
+A Song of Ice and Fire,A Feast for Crows,4
+Chronicles of Narnia,"The Lion, the Witch and the Wardrobe",1
+The Inheritance Cycle,Eragon,1
+His Dark Materials,The Golden Compass,1
+A Song of Ice and Fire,A Dance with Dragons,5
+Percy Jackson and the Olympians,The Lightning Thief,1
+Mistborn,The Final Empire,1
+Twilight,Twilight,1
+The Mortal Instruments,City of Bones,1
+London Below,Neverwhere,1
+Wheel of Time,The Eye of the World,1
+The Kingkiller Chronicle,The Wise Man's Fear,2
+Throne of Glass,Throne of Glass,1
+Graceling Realm,Graceling,1
+Discworld,The Color of Magic,1
+"Rincewind,",The Color of Magic,1
+His Dark Materials,The Subtle Knife,2
+Harry Potter,Harry Potter and the Cursed Child: Parts One and Two,8
+Gentleman Bastard,The Lies of Locke Lamora,1
+Percy Jackson and the Olympians,The Sea of Monsters,2
+Farseer Trilogy,Assassin's Apprentice,1
+The Inheritance Cycle,Eldest,2
+The Hunger Games,The Hunger Games,1
+Chronicles of Narnia,The Magician's Nephew,6
+Mistborn,The Well of Ascension,2
+The Stormlight Archive,The Way of Kings,1
+Twilight,New Moon,2
+His Dark Materials,The Amber Spyglass,3
+Earthsea Cycle,A Wizard of Earthsea,1
+A Court of Thorns and Roses,A Court of Thorns and Roses,1
+Time Quintet,A Wrinkle in Time,1
+Shades of Magic,A Darker Shade of Magic,1
+Miss Peregrine's Peculiar Children,Miss Peregrine's Home for Peculiar Children,1
+Grisha Verse,Shadow and Bone,1
+Six of Crows,Six of Crows,1
+Percy Jackson and the Olympians,The Titan's Curse,3
+Twilight,Eclipse,3
+Chronicles of Narnia,Prince Caspian,2
+Percy Jackson and the Olympians,The Battle of the Labyrinth,4
+The Mortal Instruments,City of Ashes,2
+Chronicles of Narnia,The Voyage of the Dawn Treader,3
+Mistborn,The Hero of Ages,3
+Twilight,Breaking Dawn,4
+"Bone,",Daughter of Smoke &amp; Bone,1
+Howl's Moving Castle,Howl's Moving Castle,1
+The Dark Tower,The Gunslinger,1
+Percy Jackson and the Olympians,The Last Olympian,5
+The Mortal Instruments,City of Glass,3
+The Inheritance Cycle,Brisingr,3
+Wheel of Time,The Great Hunt,2
+Chronicles of Narnia,The Horse and His Boy,5
+The Hunger Games,Catching Fire,2
+Throne of Glass,Crown of Midnight,2
+Wheel of Time,The Dragon Reborn,3
+The Wicked Years,Wicked: The Life and Times of the Wicked Witch of the West,1
+The Dresden Files,Storm Front,1
+Chronicles of Narnia,The Silver Chair,4
+Red Queen,Red Queen,1
+Sword of Truth,Wizard's First Rule,1
+Inkworld,Inkheart,1
+The Hunger Games,Mockingjay,3
+The Infernal Devices,Clockwork Angel,1
+Artemis Fowl,Artemis Fowl,1
+Chronicles of Narnia,The Last Battle,7
+The First Law,The Blade Itself,1
+Study,Poison Study,1
+Avalon,The Mists of Avalon,1
+Wheel of Time,The Shadow Rising,4
+The Heroes of Olympus,The Lost Hero,1
+Throne of Glass,Heir of Fire,3
+Death,Mort,1
+"Discworld,",Mort,4
+A Court of Thorns and Roses,A Court of Mist and Fury,2
+The Lunar Chronicles,Cinder,1
+Elantris,Elantris,1
+The Raven Cycle,The Raven Boys,1
+Farseer Trilogy,Royal Assassin,2
+The Mortal Instruments,City of Fallen Angels,4
+An Ember in the Ashes,An Ember in the Ashes,1
+Wheel of Time,The Fires of Heaven,5
+The Inheritance Cycle,Inheritance,4
+Discworld,The Light Fantastic,2
+Rincewind,The Light Fantastic,2
+Discworld,Equal Rites,3
+"Witches,",Equal Rites,1
+Wheel of Time,Lord of Chaos,6
+All Souls Trilogy,A Discovery of Witches,1
+Graceling Realm,Fire,2
+Discworld,Guards! Guards!,8
+City Watch,Guards! Guards!,1
+The Stormlight Archive,Words of Radiance,2
+Throne of Glass,Queen of Shadows,4
+Farseer Trilogy,Assassin's Quest,3
+Wheel of Time,A Crown of Swords,7
+Night Angel,The Way of Shadows,1
+The Broken Earth,The Fifth Season,1
+Grisha Verse,Siege and Storm,2
+Song of the Lioness,Alanna: The First Adventure,1
+Temeraire,His Majesty's Dragon,1
+Six of Crows,Crooked Kingdom,2
+Mistborn,The Alloy of Law,4
+The Heroes of Olympus,The Son of Neptune,2
+Seraphina,Seraphina,1
+Wheel of Time,The Path of Daggers,8
+The Mortal Instruments,City of Lost Souls,5
+Malazan Book of the Fallen,Gardens of the Moon,1
+The Infernal Devices,Clockwork Prince,2
+The Belgariad,Pawn of Prophecy,1
+Wheel of Time,Winter's Heart,9
+The Original Shannara Trilogy,The Sword of Shannara,1
+Warbreaker,Warbreaker,1
+Outlander,Outlander,1
+Gentleman Bastard,Red Seas Under Red Skies,2
+A Court of Thorns and Roses,A Court of Wings and Ruin,3
+Discworld,Wyrd Sisters,6
+Witches,Wyrd Sisters,2
+The Dark Tower,The Drawing of the Three,2
+"Bone,",Days of Blood &amp; Starlight,2
+Divergent,Divergent,1
+The Dresden Files,Fool Moon,2
+Oz,The Wonderful Wizard of Oz,1
+Demon Cycle,The Warded Man,1
+The Heroes of Olympus,The Mark of Athena,3
+The Last Unicorn,The Last Unicorn,1
+The Infernal Devices,Clockwork Princess,3
+The Witcher,The Last Wish,1
+Bartimaeus,The Amulet of Samarkand,1
+Shades of Magic,A Gathering of Shadows,2
+Winternight Trilogy,The Bear and the Nightingale,1
+Wheel of Time,Crossroads of Twilight,10
+Dragonriders of Pern,Dragonflight,1
+Codex Alera,Furies of Calderon,1
+The Lunar Chronicles,Scarlet,2
+Inheritance,The Hundred Thousand Kingdoms,1
+The Broken Empire,Prince of Thorns,1
+Grisha Verse,Ruin and Rising,3
+Wheel of Time,Knife of Dreams,11
+Wheel of Time,The Gathering Storm,12
+Phèdre's Trilogy,Kushiel's Dart,1
+Simon Snow,Carry On,1
+The First Law,Before They Are Hanged,2
+The Golem and the Jinni,The Golem and the Jinni,1
+Earthsea Cycle,The Tombs of Atuan,2
+The Queen's Thief,The Thief,1
+Abhorsen,Lirael,2
+Graceling Realm,Bitterblue,3
+The Queen of the Tearling,The Queen of the Tearling,1
+The Iron Fey,The Iron King,1
+The Wrath and the Dawn,The Wrath and the Dawn,1
+Throne of Glass,Empire of Storms,5
+Gemma Doyle,A Great and Terrible Beauty,1
+The Kane Chronicles,The Red Pyramid,1
+The Mortal Instruments,City of Heavenly Fire,6
+Strange the Dreamer,Strange the Dreamer,1
+Sword of Truth,Stone of Tears,2
+Discworld,Sourcery,5
+Rincewind,Sourcery,3
+Caster Chronicles,Beautiful Creatures,1
+Sookie Stackhouse,Dead Until Dark,1
+Discworld,Going Postal,33
+"Moist von Lipwig,",Going Postal,1
+Lightbringer,The Black Prism,1
+Discworld,Reaper Man,11
+"Death,",Reaper Man,2
+Wheel of Time,Towers of Midnight,13
+Discworld,The Wee Free Men,30
+"Tiffany Aching,",The Wee Free Men,1
+The Heroes of Olympus,The House of Hades,4
+The Dresden Files,Grave Peril,3
+The Dark Tower,The Waste Lands,3
+The Raven Cycle,The Dream Thieves,2
+The First Law,Last Argument of Kings,3
+Legacy of Orïsha,Children of Blood and Bone,1
+Abhorsen,Abhorsen,3
+Legacy of Orïsha,Children of Blood and Bone,1
+The Lunar Chronicles,Cress,3
+Discworld,Hogfather,20
+"Death,",Hogfather,4
+The Wolves of Mercy Falls,Shiver,1
+Vampire Academy,Vampire Academy,1
+Sevenwaters,Daughter of the Forest ,1
+The Folk of the Air,The Cruel Prince,1
+The Belgariad,Magician's Gambit,3
+Liveship Traders,Ship of Magic,1
+Song of the Lioness,In the Hand of the Goddess,2
+Black Magician Trilogy,The Magicians' Guild,1
+The Belgariad,Queen of Sorcery,2
+Enchanted Forest Chronicles,Dealing with Dragons,1
+The Young Elites,The Young Elites,1
+Caraval,Caraval,1
+Discworld,Men at Arms,15
+City Watch,Men at Arms,2
+Study,Magic Study,2
+Discworld,Pyramids,7
+Earthsea Cycle,The Farthest Shore,3
+The Dark Tower,Wizard and Glass,4
+The Belgariad,Castle of Wizardry,4
+The Belgariad,Enchanters' End Game,5
+Tawny Man,Fool's Errand,1
+Dragonlance: Chronicles,Dragons of Autumn Twilight ,1
+"Bone,",Dreams of Gods &amp; Monsters,3
+Discworld,Witches Abroad,12
+Witches,Witches Abroad,3
+The Winner's Trilogy,The Winner's Curse,1
+Watership Down,Watership Down,1
+Gentleman Bastard,The Republic of Thieves,3
+Wheel of Time,A Memory of Light,14
+The Dresden Files,Summer Knight,4
+The Chronicles of Prydain,The Book of Three,1
+The Riftwar Saga,Magician: Apprentice,1
+Wayward Children,Every Heart a Doorway,1
+Shades of Magic,A Conjuring of Light,3
+Discworld,Feet of Clay,19
+"City Watch,",Feet of Clay,3
+"Memory, Sorrow, and Thorn",The Dragonbone Chair,1
+The Lunar Chronicles,Winter,4
+Redwall,Redwall,1
+Discworld,Soul Music,16
+"Death,",Soul Music,3
+The Raven Cycle,"Blue Lily, Lily Blue",3
+Song of the Lioness,The Woman Who Rides Like a Man,3
+The Secrets of the Immortal Nicholas Flamel,The Alchemyst,1
+Song of the Lioness,Lioness Rampant,4
+Inkworld,Inkspell,2
+Damar,The Blue Sword,1
+Lumatere Chronicles,Finnikin of the Rock,1
+The Heroes of Olympus,The Blood of Olympus,5
+Seven Realms,The Demon King,1
+Artemis Fowl,The Arctic Incident,2
+Immortals,Wild Magic,1
+His Fair Assassin,Grave Mercy,1
+The Reckoners,Steelheart,1
+Night Angel,Shadow's Edge,2
+"Hush, Hush","Hush, Hush",1
+Thursday Next,The Eyre Affair,1
+Hitchhiker's Guide to the Galaxy,The Hitchhiker's Guide to the Galaxy,1
+Raven's Shadow,Blood Song,1
+Discworld,Moving Pictures,10
+"Industrial Revolution,",Moving Pictures,1
+Falling Kingdoms,Falling Kingdoms,1
+Miss Peregrine's Peculiar Children,Hollow City,2
+The Magicians,The Magician King,2
+Parasol Protectorate,Soulless,1
+Discworld,Eric,9
+Rincewind,Eric,4
+The Dresden Files,Death Masks,5
+Discworld,Lords and Ladies,14
+Witches,Lords and Ladies,4
+The Remnant Chronicles,The Kiss of Deception,1
+Sword of Truth,Temple of the Winds,4
+Tawny Man,Golden Fool,2
+The Original Shannara Trilogy,The Elfstones of Shannara ,2
+The Dark Tower,Wolves of the Calla,5
+Forgotten Realms: The Dark Elf Trilogy,Homeland,1
+"Legend of Drizzt,",Homeland,1
+Discworld,Thud!,34
+City Watch,Thud!,7
+Mistborn,Shadows of Self,5
+The Host,The Host,1
+"the End of Days,",Angelfall,1
+Discworld,The Fifth Elephant,24
+"City Watch,",The Fifth Elephant,5
+Discworld,Thief of Time,26
+"Death,",Thief of Time,5
+Red Queen,Glass Sword,2
+Ranger's Apprentice,The Ruins of Gorlan,1
+Shattered Sea,Half a King,1
+Fablehaven,Fablehaven,1
+Eon,Eon: Dragoneye Reborn,1
+Night Angel,Beyond the Shadows,3
+The Dark Tower,Song of Susannah,6
+Discworld,Monstrous Regiment,31
+"Industrial Revolution,",Monstrous Regiment,3
+Septimus Heap,Magyk,1
+Peter Grant,Rivers of London,1
+The Sandman,Preludes &amp; Nocturnes,1
+The Raven Cycle,The Raven King,4
+The Stormlight Archive,Oathbringer,3
+The Dresden Files,Blood Rites,6
+Snow Like Ashes,Snow Like Ashes,1
+The Dark Tower,The Dark Tower,7
+Fairyland,The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making,1
+Study,Fire Study,3
+The Books of Bayern,The Goose Girl,1
+Artemis Fowl,The Eternity Code,3
+Fallen,Fallen,1
+The Dresden Files,Dead Beat,7
+Discworld,A Hat Full of Sky,32
+"Tiffany Aching,",A Hat Full of Sky,2
+An Ember in the Ashes,A Torch Against the Night,2
+Discworld,Maskerade,18
+Witches,Maskerade,5
+Liveship Traders,The Mad Ship,2
+Discworld,The Truth,25
+"Industrial Revolution,",The Truth,2
+Discworld,Making Money,36
+"Moist Von Lipwig,",Making Money,2
+Witches,Carpe Jugulum,6
+Divergent,Insurgent,2
+World of the Five Gods,The Curse of Chalion,1
+Liveship Traders,Ship of Destiny,3
+Magnus Chase and the Gods of Asgard,The Sword of Summer,1
+All Souls Trilogy,Shadow of Night,2
+The Riftwar Saga,Silverthorn,3
+Sword of Truth,Soul of the Fire,5
+Codex Alera,Academ's Fury,2
+The Rithmatist,The Rithmatist,1
+Three Dark Crowns,Three Dark Crowns,1
+Wicked Lovely,Wicked Lovely,1
+The Malloreon,Guardians of the West,1
+The Dresden Files,Proven Guilty,8
+The Witchlands,Truthwitch,1
+Sword of Truth,Faith of the Fallen,6
+Temeraire,Throne of Jade,2
+The Dresden Files,White Night,9
+Sookie Stackhouse,Living Dead in Dallas,2
+Discworld,Wintersmith,35
+"Tiffany Aching,",Wintersmith,3
+Villains,Vicious,1
+Black Magician Trilogy,The Novice,2
+Protector of the Small,First Test,1
+The Iron Druid Chronicles,Hounded,1
+New Crobuzon,Perdido Street Station,1
+Bartimaeus,The Golem's Eye,2
+Fever,Darkfever,1
+Charlie Bucket,Charlie and the Chocolate Factory,1
+Dune Chronicles,Dune,1
+Discworld,The Last Continent,22
+Rincewind,The Last Continent,6
+Saga,"Saga, Vol. 1",1
+Mistborn,The Bands of Mourning,6
+Mercy Thompson,Moon Called,1
+Daughter of the Lioness,Trickster's Choice,1
+Black Magician Trilogy,The High Lord,3
+The Kane Chronicles,The Throne of Fire,2
+The Riftwar Saga,A Darkness At Sethanon,4
+Discworld,Snuff,39
+City Watch,Snuff,8
+Dragonlance: Chronicles,Dragons of Winter Night,2
+The Malloreon,King of the Murgos,2
+The Original Shannara Trilogy,The Wishsong of Shannara,3
+Monsters of Verity,This Savage Song,1
+Discworld,Unseen Academicals,37
+Rincewind,Unseen Academicals,8
+The Dresden Files,Turn Coat,11
+Immortals,Wolf-Speaker,2
+Demon Cycle,The Desert Spear,2
+Vampire Academy,Frostbite,2
+Dragonlance: Chronicles,Dragons of Spring Dawning,3
+Powder Mage,Promise of Blood,1
+Kate Daniels,Magic Bites,1
+The Ascendance Trilogy,The False Prince,1
+The Broken Earth,The Obelisk Gate,2
+Immortals,Emperor Mage,3
+Sword of Truth,The Pillars of Creation,7
+Beka Cooper,Terrier,1
+The Malloreon,Sorceress of Darshiva,4
+The Chronicles of Prydain,The Black Cauldron,2
+The Divine Cities,City of Stairs,1
+Sookie Stackhouse,Club Dead,3
+The Memoirs of Lady Trent,A Natural History of Dragons,1
+The Malloreon,Demon Lord of Karanda,3
+House of Night,Marked,1
+Codex Alera,Captain's Fury,4
+The Malloreon,The Seeress of Kell,5
+Throne of Glass,Tower of Dawn,6
+Green Rider,Green Rider,1
+The Chronicles of Thomas Covenant the Unbeliever,Lord Foul's Bane,1
+The Witcher,Blood of Elves,3
+The Goblin Emperor,The Goblin Emperor,1
+Inkworld,Inkdeath,3
+Malazan Book of the Fallen,Deadhouse Gates,2
+Ready Player One,Ready Player One,1
+The Dark Is Rising,"Over Sea, Under Stone",1
+The Invisible Library,The Invisible Library,1
+Harper Hall,Dragonsong,1
+Sookie Stackhouse,Dead to the World,4
+Discworld,I Shall Wear Midnight,38
+"Tiffany Aching,",I Shall Wear Midnight,4
+The Chronicles of the Black Company,The Black Company,1
+Time Quintet,A Wind in the Door,2
+Rain Wild Chronicles,The Dragon Keeper,1
+Forgotten Realms: The Dark Elf Trilogy,Exile,2
+"Legend of Drizzt,",Exile,2
+Princess Academy,Princess Academy,1
+Edelstein-Trilogie,Rubinrot,1
+Earthsea Cycle,Tehanu,4
+Heralds of Valdemar,Arrows of the Queen,1
+Howl's Moving Castle,Castle in the Air,2
+Vampire Academy,Shadow Kiss,3
+The Magicians,The Magician's Land,3
+Daughter of the Lioness,Trickster's Queen,2
+The Diviners,The Diviners,1
+The Paper Magician,The Paper Magician,1
+Protector of the Small,Squire,3
+Sword of Truth,Naked Empire,8
+The Queen's Thief,The Queen of Attolia,2
+Modern Faerie Tales,Tithe,1
+The Dresden Files,Cold Days,14
+The Bone Season,The Bone Season,1
+Protector of the Small,Lady Knight,4
+Protector of the Small,Page,2
+The Iron Fey,The Iron Daughter,2
+Forgotten Realms: The Dark Elf Trilogy,Sojourn,3
+"Legend of Drizzt,",Sojourn,3
+Gemma Doyle,Rebel Angels,2
+Phèdre's Trilogy,Kushiel's Chosen,2
+Chronicle of the Unhewn Throne,The Emperor's Blades,1
+Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,1
+Ender's Saga,Ender's Game,1
+Discworld,Interesting Times,17
+Rincewind,Interesting Times,5
+Sookie Stackhouse,Dead as a Doornail,5
+All Souls Trilogy,The Book of Life,3
+Forgotten Realms: Icewind Dale,The Crystal Shard,1
+"Legend of Drizzt,",The Crystal Shard,4
+The Trials of Apollo,The Hidden Oracle,1
+Circle of Magic,Sandry's Book,1
+Pern,Dragonquest,2
+Vampire Academy,Blood Promise,4
+Temeraire,Black Powder War,3
+Captive Prince,Captive Prince,1
+"Memory, Sorrow, and Thorn",Stone of Farewell,2
+Discworld,The Amazing Maurice and His Educated Rodents,28
+Sword of Truth,Chainfire,9
+The Book of Dust,La Belle Sauvage,1
+Underland Chronicles,Gregor the Overlander,1
+Hex Hall,Hex Hall,1
+Sookie Stackhouse,Definitely Dead,6
+The Kane Chronicles,The Serpent's Shadow,3
+Beastly,Beastly,1
+"Kendra Chronicles,",Beastly,1
+Nightrunner,Luck in the Shadows,1
+Miss Peregrine's Peculiar Children,Library of Souls,3
+Lightbringer,The Blinding Knife,2
+Saga o Wiedźminie,Miecz przeznaczenia,2
+Magic Kingdom of Landover,Magic Kingdom For Sale/Sold,1
+The Broken Empire,King of Thorns,2
+The Winner's Trilogy,The Winner's Crime,2
+Pern,The White Dragon,3
+The Chronicles of Prydain,The High King,5
+The Queen of the Tearling,The Invasion of the Tearling,2
+Divergent,Allegiant,3
+The Others,Written in Red,1
+Sword of Truth,Phantom,10
+Outlander,Dragonfly in Amber,2
+The Looking Glass Wars,The Looking Glass Wars,1
+Sookie Stackhouse,All Together Dead,7
+Wildwood,Wildwood Dancing,1
+The Checquy Files,The Rook,1
+Time Quintet,A Swiftly Tilting Planet,3
+Arthurian Saga,The Crystal Cave,1
+The Nevernight Chronicle,Nevernight,1
+The Two Princesses of Bamarre,The Two Princesses of Bamarre,1
+Vampire Academy,Spirit Bound,5
+Artemis Fowl,The Time Paradox,6
+The Star-Touched Queen,The Star-Touched Queen,1
+Harper Hall,Dragonsinger,2
+Malazan Book of the Fallen,Memories of Ice,3
+Flame in the Mist,Flame in the Mist,1
+Sword of Truth,Confessor,11
+Phèdre's Trilogy,Kushiel's Avatar,3
+Magisterium,The Iron Trial,1
+Vampire Academy,Last Sacrifice,6
+The Chronicles of Prydain,The Castle of Llyr,3
+Gemma Doyle,The Sweet Far Thing,3
+The Heir Chronicles,The Warrior Heir,1
+Sookie Stackhouse,From Dead to Worse,8
+Red Rising,Red Rising,1
+The Broken Earth,The Stone Sky,3
+Sookie Stackhouse,Dead and Gone,9
+The Maze Runner,The Maze Runner,1
+Splintered,Splintered,1
+The School for Good and Evil,The School for Good and Evil,1
+Dragonlance: Legends,Time of the Twins,1
+The Vampire Chronicles,The Vampire Lestat,2
+Throne of Glass,Kingdom of Ash,7
+First Law World,The Heroes,5
+Sevenwaters,Son of the Shadows,2
+The Chronicles of Prydain,Taran Wanderer,4
+The Dresden Files,Skin Game,15
+The Sandman,The Doll's House,2
+The Spiderwick Chronicles,The Field Guide,1
+The Wolves of Mercy Falls,Linger,2
+Lorien Legacies,I Am Number Four,1
+The Cinder Spires,The Aeronaut's Windlass,1
+The Iron Fey,The Iron Queen,3
+The Hazel Wood,The Hazel Wood,1
+Seven Realms,The Exiled Queen,2
+Ranger's Apprentice,The Burning Bridge,2
+The Elenium,The Ruby Knight,2
+Demon Cycle,The Daylight War,3
+Inheritance,The Broken Kingdoms,2
+The Immortals,Evermore,1
+Howl's Moving Castle,House of Many Ways,3
+Red Queen,King's Cage,3
+Saga,"Saga, Vol. 2",2
+Rincewind,The Last Hero,7
+The Queen's Thief,The King of Attolia,3
+Fire and Thorns,The Crown of Embers,2
+The Elenium,The Sapphire Rose,3
+Forgotten Realms: Icewind Dale,Streams of Silver,2
+"Legend of Drizzt,",Streams of Silver,5
+Redwall,Mossflower,2
+The Selection,The Selection,1
+Temeraire,Empire of Ivory,4
+Enchanted Forest Chronicles,Calling on Dragons,3
+Incarnations of Immortality,On a Pale Horse,1
+Shatter Me,Shatter Me,1
+Dreamblood,The Killing Moon,1
+Rain Wild Chronicles,Dragon Haven,2
+The Red Queen's War,Prince of Fools,1
+Beka Cooper,Bloodhound,2
+The Wicked Years,Son of a Witch,2
+Forgotten Realms: Icewind Dale,The Halfling's Gem,3
+"Legend of Drizzt,",The Halfling's Gem,6
+Mercy Thompson,Blood Bound,2
+The Malediction Trilogy,Stolen Songbird,1
+Saga o Wiedźminie,Czas pogardy,4
+The Great Library,Ink and Bone,1
+Dragonlance: Legends,War of the Twins,2
+Sookie Stackhouse,Dead in the Family,10
+Dragonlance: Legends,Test of the Twins,3
+Dragon Rider,Dragon Rider,1
+The Secrets of the Immortal Nicholas Flamel,The Magician,2
+The Winner's Trilogy,The Winner's Kiss,3
+Heritage of Shannara,The Scions of Shannara,1
+The Reckoners,Firefight,2
+The Elric Saga,Elric of Melniboné,1
+Enchanted Forest Chronicles,Talking to Dragons,4
+Wintersong,Wintersong,1
+Malazan Book of the Fallen,House of Chains,4
+The Half Bad Trilogy,Half Bad,1
+Chrestomanci,Charmed Life,1
+The Legends of the First Empire,Age of Myth,1
+World of the Five Gods,Paladin of Souls,2
+Tales of Alvin Maker,Seventh Son,1
+Lux,Obsidian,1
+"Hush, Hush",Crescendo,2
+Fever,Bloodfever,2
+Circle of Magic,Tris's Book,2
+Parasol Protectorate,Changeless,2
+The Hollows,Dead Witch Walking,1
+"the End of Days,",World After,2
+The Last Apprentice / Wardstone Chronicles,Revenge of the Witch,1
+Eon,Eona: The Last Dragoneye,2
+Leningrad Diptych,Deathless,1
+The Dagger and the Coin,The Dragon's Path,1
+The Poppy War,The Poppy War,1
+Mercy Thompson,Iron Kissed,3
+The Death Gate Cycle,Dragon Wing,1
+Codex Alera,Cursor's Fury,3
+The Drenai Saga,Legend,1
+Tales of the Otori,Across the Nightingale Floor,1
+The Sandman,Dream Country,3
+Darkest Powers,The Summoning,1
+Winternight Trilogy,The Girl in the Tower,2
+The Black Jewels,Heir to the Shadows,2
+A Series of Unfortunate Events,The Bad Beginning,1
+The Riyria Chronicles,The Crown Tower,1
+Incarceron,Incarceron,1
+Monstress,"Monstress, Vol. 1: Awakening",1
+Circle of Magic,Daja's Book,3
+Caster Chronicles,Beautiful Darkness,2
+Abhorsen,Clariel,4
+Heralds of Valdemar,Arrow's Flight,2
+Glass,Storm Glass,1
+House of Night,Betrayed,2
+Septimus Heap,Flyte,2
+Peter Grant,Moon Over Soho,2
+Heritage of Shannara,The Druid of Shannara,2
+Alice's Adventures in Wonderland,Through the Looking-Glass and What Alice Found There,2
+Circle of Magic,Briar's Book,4
+Soldier Son,Shaman's Crossing,1
+Wayward Children,Down Among the Sticks and Bones,2
+Outlander,Voyager,3
+Unearthly,Unearthly,1
+Heralds of Valdemar,Arrow's Fall,3
+Malazan Book of the Fallen,Midnight Tides,5
+Fablehaven,Rise of the Evening Star,2
+Wraith Kings,Radiance,1
+Captive Prince,Captive Prince: Volume Two,2
+Curse Workers,White Cat,1
+Greatcoats,Traitor's Blade,1
+The Iron Druid Chronicles,Hexed,2
+The Dark Artifices,Lord of Shadows,2
+The Black Jewels,Queen of the Darkness,3
+Saga,"Saga, Vol. 3",3
+The Lady Janies,My Lady Jane,1
+The Books of Pellinor,The Naming,1
+The Remnant Chronicles,The Heart of Betrayal,2
+The Iron Fey,The Iron Knight,4
+The Prince of Nothing,The Darkness That Comes Before,1
+Ranger's Apprentice,The Icebound Land,3
+First Law World,Red Country,6
+Heritage of Shannara,The Elf Queen of Shannara,3
+The Bird and the Sword Chronicles,The Bird and the Sword,1
+Heritage of Shannara,The Talismans of Shannara,4
+Glamourist Histories,Shades of Milk and Honey,1
+Shattered Sea,Half the World,2
+Seraphina,Shadow Scale,2
+Seven Realms,The Crimson Crown,4
+Temeraire,Victory of Eagles,5
+Lightbringer,The Broken Eye,3
+Artemis Fowl,The Atlantis Complex,7
+Kate Daniels,Magic Burns,2
+The Sandman,Season of Mists,4
+Saga o Wiedźminie,Chrzest ognia,5
+Cecelia and Kate,Sorcery &amp; Cecelia: or The Enchanted Chocolate Pot,1
+Fever,Shadowfever,5
+Xanth,The Source of Magic,2
+His Fair Assassin,Dark Triumph,2
+Rat Queens,"Rat Queens, Vol. 1: Sass &amp; Sorcery",1
+The Vampire Chronicles,The Queen of the Damned,3
+Sookie Stackhouse,Dead Reckoning,11
+The Last Dragonslayer,The Last Dragonslayer,1
+Black Dagger Brotherhood,Dark Lover,1
+Edelstein-Trilogie,Saphirblau,2
+The Dark is Rising,Silver on the Tree,5
+The Books of Bayern,Enna Burning,2
+The Empire Trilogy,Servant of the Empire,2
+Leviathan,Leviathan,1
+Mercy Thompson,Bone Crossed,4
+Chaos Walking,The Knife of Never Letting Go,1
+"Anita Blake, Vampire Hunter",Guilty Pleasures,1
+Ranger's Apprentice,The Battle for Skandia,4
+"Memory, Sorrow, and Thorn",To Green Angel Tower,3
+Fever,Dreamfever,4
+Five Hundred Kingdoms,The Fairy Godmother,1
+The Keys to the Kingdom,Mister Monday,1
+The Crescent Moon Kingdoms,Throne of the Crescent Moon,1
+The Tamuli,Domes of Fire,1
+Raven's Shadow,Tower Lord,2
+Skulduggery Pleasant,Skulduggery Pleasant,1
+House of Night,Chosen,3
+The Secrets of the Immortal Nicholas Flamel,The Sorceress,3
+Bloodlines,Bloodlines,1
+Magnus Chase and the Gods of Asgard,The Hammer of Thor,2
+Earthsea Cycle,The Other Wind,6
+Book of Ember,The City of Ember,1
+Imriel's Trilogy,Kushiel's Scion,1
+The Wolves of Mercy Falls,Forever,3
+Beka Cooper,Mastiff,3
+Fallen,Torment,2
+Parasol Protectorate,Blameless,3
+The Elemental Trilogy,The Burning Sky,1
+Falling Kingdoms,Rebel Spring,2
+The Chronicles of Thomas Covenant the Unbeliever,The Power That Preserves,3
+Wings,Wings,1
+Maximum Ride,The Angel Experiment,1
+Earthsea Cycle,Tales from Earthsea,5
+Young Wizards,So You Want to Be a Wizard,1
+Night Huntress,Halfway to the Grave,1
+"Omega,",Cry Wolf,1
+Captive Prince,Kings Rising,3
+The Fionavar Tapestry,The Wandering Fire,2
+The Tamuli,The Shining Ones,2
+Gormenghast,Titus Groan,1
+The Serpentwar Saga,Shadow of a Dark Queen,1
+The Princesses of Westfalin Trilogy,Princess of the Midnight Ball,1
+Chronicles of Elantra,Cast in Shadow,1
+Time Quintet,Many Waters,4
+The Talisman,The Talisman,1
+How to Train Your Dragon,How to Train Your Dragon,1
+The Fitz and The Fool,Fool's Quest ,2
+Mara Dyer,The Unbecoming of Mara Dyer,1
+Xanth,Castle Roogna,3
+The Darkest Minds,The Darkest Minds,1
+A Land Fit for Heroes,The Steel Remains,1
+Mercy Thompson,Silver Borne,5
+Fablehaven,Grip of the Shadow Plague,3
+Wicked Lovely,Ink Exchange,2
+The Tamuli,The Hidden City,3
+Kingmaker Chronicles,A Promise of Fire,1
+Everless,Everless,1
+Passenger,Passenger,1
+Women of the Otherworld,Bitten,1
+Akata Witch,Akata Witch,1
+The Queen of the Tearling,The Fate of the Tearling,3
+Malazan Book of the Fallen,Reaper's Gale,7
+The Dandelion Dynasty,The Grace of Kings,1
+Peter Grant,Whispers Under Ground,3
+Lumatere Chronicles,Froi of the Exiles,2
+The Tamír Triad,The Bone Doll's Twin,1
+Green Rider,First Rider's Call,2
+The Circle Opens,Magic Steps,1
+New Crobuzon,The Scar,2
+The Sandman,A Game of You,5
+Edelstein-Trilogie,Smaragdgrün,3
+"Hush, Hush",Silence,3
+House of Night,Untamed,4
+Inheritance,The Kingdom of Gods,3
+Air Awakens,Air Awakens,1
+Nightrunner,Stalking Darkness,2
+Redwall,Martin the Warrior,6
+Riverside,Swordspoint,1
+Rain Wild Chronicles,Blood of Dragons,4
+Saga o Wiedźminie,Wieża Jaskółki,6
+Krondor's Sons,Prince of the Blood,1
+Pern,Moreta: Dragonlady of Pern,7
+The Young Elites,The Midnight Star,3
+The Fionavar Tapestry,The Darkest Road,3
+The Riyria Revelations,The Crown Conspiracy,1
+Rats of NIMH,Mrs. Frisby and the Rats of NIMH,1
+"Grim,",Dreamer's Pool,1
+Septimus Heap,Physik,3
+The Lotus Wars,Stormdancer,1
+Kate Daniels,Magic Bleeds,4
+The Coldfire Trilogy,Black Sun Rising,1
+Saga,"Saga, Vol. 4",4
+The Iron Druid Chronicles,Hammered,3
+The Others,Murder of Crows,2
+DC Icons,Wonder Woman: Warbringer,1
+The Land of Stories,The Wishing Spell,1
+The Serpentwar Saga,Rise of a Merchant Prince,2
+Symphony of Ages,Rhapsody: Child of Blood,1
+Uglies,Uglies,1
+Malazan Book of the Fallen,Toll the Hounds,8
+Deverry,Daggerspell,1
+Every Day,Every Day,1
+The Secrets of the Immortal Nicholas Flamel,The Necromancer ,4
+Princess Irene and Curdie,The Princess and the Goblin ,1
+October Daye,Rosemary and Rue,1
+Imriel's Trilogy,Kushiel's Justice,2
+Paranormalcy,Paranormalcy,1
+Magonia,Magonia,1
+Forgotten Realms: Legacy of the Drow,The Legacy,1
+"Legend of Drizzt,",The Legacy,7
+The Tiger Saga,Tiger's Curse,1
+Tairen Soul,Lord of the Fading Lands,1
+The Reckoners,Calamity,3
+The Masquerade,The Traitor Baru Cormorant,1
+Mercy Thompson,River Marked,6
+The Crown's Game,The Crown's Game,1
+Outlander,Drums of Autumn,4
+Talon,Talon,1
+The Sandman,Fables &amp; Reflections,6
+Fablehaven,Secrets of the Dragon Sanctuary,4
+The Circle Opens,Street Magic,2
+"Kingmaker, Kingbreaker",The Innocent Mage,1
+The Spiderwick Chronicles,The Seeing Stone,2
+Krondor's Sons,The King's Buccaneer,2
+Soldier Son,Forest Mage,2
+Parasol Protectorate,Heartless,4
+Temeraire,Tongues of Serpents,6
+Avalon,Lady of Avalon,3
+Hex Hall,Demonglass,2
+Discworld,The Shepherd's Crown,41
+"Tiffany Aching,",The Shepherd's Crown,5
+The Edge,On the Edge,1
+Firelight,Firelight,1
+Redwall,Mariel of Redwall,4
+"the End of Days,",End of Days,3
+Legend,Legend,1
+The Band,Kings of the Wyld,1
+The Dresden Files,Small Favor,10
+The Circle Reforged,The Will of the Empress,1
+House of Night,Hunted,5
+The Queens of Renthia,The Queen of Blood ,1
+Sookie Stackhouse,Deadlocked,12
+Forgotten Realms: Legacy of the Drow,Starless Night,2
+"Legend of Drizzt,",Starless Night,8
+Ranger's Apprentice,The Siege of Macindaw,6
+Abraham Lincoln: Vampire Hunter,Abraham Lincoln: Vampire Hunter,1
+The Second Chronicles of Thomas Covenant,The Wounded Land,1
+Xanth,Centaur Aisle,4
+The Lynburn Legacy,Unspoken,1
+The Serpentwar Saga,Rage of a Demon King,3
+Wayward Children,Beneath the Sugar Sky,3
+Covenant,Half-Blood,1
+Kate Daniels,Magic Slays,5
+Pride and Prejudice and Zombies,Pride and Prejudice and Zombies,1
+A Thousand Nights,A Thousand Nights,1
+Demon Cycle,The Skull Throne,4
+Peter Grant,Broken Homes,4
+Avalon,The Forest House,2
+Fablehaven,Keys to the Demon Prison,5
+Strange the Dreamer,Muse of Nightmares,2
+An Ember in the Ashes,A Reaper at the Gates,3
+The Sandman,Brief Lives,7
+Court,Crown Duel,1-2
+Malazan Book of the Fallen,Dust of Dreams,9
+The Traitor Son Cycle,The Red Knight,1
+Healer,Scent of Magic,2
+Summoner,The Novice,1
+Caster Chronicles,Beautiful Chaos,3
+Incarnations of Immortality,Bearing an Hourglass,2
+Forgotten Realms: Legacy of the Drow,Siege of Darkness,3
+"Legend of Drizzt,",Siege of Darkness,9
+Powder Mage,The Crimson Campaign,2
+The Sarantine Mosaic,Sailing to Sarantium,1
+Matched,Matched,1
+Traitor Spy Trilogy,The Ambassador's Mission,1
+Empirium,Furyborn,1
+Valdemar: Vows and Honor,The Oathbound,1
+Seven Realms,The Gray Wolf Throne,3
+Redwall,Salamandastron,5
+Saga o Wiedźminie,Pani Jeziora,7
+Derkholm,Dark Lord of Derkholm,1
+The Circle Opens,Cold Fire,3
+Voyage of the Jerle Shannara,Ilse Witch,1
+Valdemar: Mage Winds,Winds of Change,2
+Shattered Sea,Half a War,3
+Age of the Five,Priestess of the White,1
+Spiritwalker,Cold Magic,1
+Myth Adventures,Another Fine Myth,1
+Books of Faerie,Lament: The Faerie Queen's Deception,1
+The History of Middle-Earth,"The Book of Lost Tales, Part One",1
+Fire and Thorns,The Girl of Fire and Thorns,1
+Dragon Slippers,Dragon Slippers,1
+The Sandman,World's End,8
+Artemis Fowl,The Last Guardian,8
+Monsters of Verity,Our Dark Duet,2
+Malazan Book of the Fallen,The Crippled God,10
+Shadowfell,Shadowfell,1
+The Books of Bayern,River Secrets,3
+Lumatere Chronicles,Quintana of Charyn,3
+Xanth,Night Mare,6
+Thursday Next,Something Rotten,4
+Bloodlines,The Golden Lily,2
+"Void,",Running with the Demon,1
+Lux,Onyx,2
+"Co.,",The Screaming Staircase,1
+Anna,Anna Dressed in Blood,1
+Damar,The Hero and the Crown,2
+The Orphan's Tales,In the Night Garden,1
+The Iron Druid Chronicles,Tricked,4
+The Dresden Files,Changes,12
+The Falconer,The Falconer,1
+The Selection,The Elite,2
+Saga,"Saga, Vol. 5",5
+His Fair Assassin,Mortal Heart,3
+The Second Chronicles of Thomas Covenant,The One Tree,2
+Mr. Penumbra's 24-Hour Bookstore,Mr. Penumbra's 24-Hour Bookstore,1
+Septimus Heap,Queste,4
+The Others,Vision in Silver,3
+Innkeeper Chronicles,Clean Sweep,1
+Darkest Powers,The Awakening,2
+The Death Gate Cycle,Serpent Mage,4
+Who Fears Death,Who Fears Death,1
+Glass,Sea Glass,2
+The Death Gate Cycle,Fire Sea,3
+The Ascendance Trilogy,The Runaway King,2
+The Bone Witch,The Bone Witch,1
+The Faithful and the Fallen,Malice,1
+Shadowmarch,Shadowmarch,1
+The Serpentwar Saga,Shards of a Broken Crown,4
+Tales of Alvin Maker,Red Prophet,2
+The Sandman,The Kindly Ones,9
+The Secrets of the Immortal Nicholas Flamel,The Warlock,5
+The Trials of Apollo,The Dark Prophecy,2
+Starcrossed,Starcrossed,1
+The Passage,The Passage,1
+Magic Ex Libris,Libriomancer,1
+The Fitz and the Fool,Assassin's Fate,3
+The Assassin's Curse,The Assassin's Curse,1
+House of Night,Tempted,6
+Mercy Thompson,Frost Burned,7
+Parasol Protectorate,Timeless,5
+The Gold Seer Trilogy,Walk on Earth a Stranger ,1
+The Spiderwick Chronicles,Lucinda's Secret,3
+Ranger's Apprentice,Erak's Ransom,7
+Lives of the Mayfair Witches,The Witching Hour,1
+"Memory, Sorrow, and Thorn","To Green Angel Tower, Part 2",3
+The Girl from Everywhere,The Girl from Everywhere,1
+Under the Never Sky,Under the Never Sky,1
+The Chronicles of Master Li and Number Ten Ox,Bridge of Birds,1
+Jackaby,Jackaby,1
+The Remnant Chronicles,The Beauty of Darkness,3
+Chrestomanci,The Lives of Christopher Chant,2
+Nightrunner,Traitor's Moon,3
+The Wrath and the Dawn,The Rose &amp; the Dagger,2
+Fallen,Passion,3
+The Dark Artifices,Lady Midnight,1
+Of Fire and Stars,Of Fire and Stars,1
+World of the Five Gods,The Hallowed Hunt,3
+Valdemar: Vows and Honor,Oathbreakers,2
+Magic Kingdom of Landover,Wizard at Large,3
+Ravenspire,The Shadow Queen,1
+The Syrena Legacy,Of Poseidon,1
+Soldier Son,Renegade's Magic,3
+Renegades,Renegades,1
+The Spiderwick Chronicles,The Ironwood Tree,4
+Naamah Trilogy,Naamah's Kiss,1
+Pern,The Masterharper of Pern,15
+The Licanius Trilogy,The Shadow of What Was Lost,1
+Three Dark Crowns,One Dark Throne,2
+The Forbidden Wish,The Forbidden Wish,1
+"Wizard,",Witch &amp; Wizard,1
+Guild Hunter,Angels' Blood,1
+Bloodlines,The Indigo Spell,3
+The Death Gate Cycle,The Hand of Chaos,5
+The Sandman,The Wake,10
+The Black Jewels,Dreams Made Flesh,5
+Goddess Test,The Goddess Test,1
+The Wicked Years,A Lion Among Men,3
+Green Rider,The High King's Tomb,3
+Rain Wild Chronicles,City of Dragons,3
+Grim Reaper,A Dirty Job,1
+The Heir Chronicles,The Wizard Heir,2
+Mirrorworld,Reckless,1
+Rebel Belle,Rebel Belle,1
+The Death Gate Cycle,Into the Labyrinth,6
+Blue Bloods,Blue Bloods,1
+Wayfarer Redemption,The Wayfarer Redemption,1
+Sookie Stackhouse,Dead Ever After,13
+Voyage of the Jerle Shannara,Antrax,2
+Dragonlance: The Second Generation,Dragons of Summer Flame,2
+The Sin Eater’s Daughter,The Sin Eater’s Daughter,1
+Forgotten Realms: Legacy of the Drow,Passage to Dawn,4
+"Legend of Drizzt,",Passage to Dawn,10
+The Paper Magician,The Glass Magician,2
+The Emperor's Edge,The Emperor's Edge,1
+Magnus Chase and the Gods of Asgard,The Ship of the Dead,3
+Kate Daniels,Magic Rises,6
+Peter Grant,Foxglove Summer,5
+Merry Gentry,A Kiss of Shadows,1
+The Spiderwick Chronicles,The Wrath of Mulgarath,5
+Mordant's Need,The Mirror of Her Dreams,1
+The Death Gate Cycle,The Seventh Gate,7
+Fantasyland,Wildest Dreams,1
+Elemental Blessings,Troubled Waters,1
+Master of Crows,Master of Crows,1
+Newsoul,Incarnate,1
+The Deed of Paksenarrion,Sheepfarmer's Daughter,1
+Savvy,Savvy,1
+Alcatraz,Alcatraz Versus the Evil Librarians,1
+Genesis of Shannara,Armageddon's Children,1
+The Black Jewels,The Invisible Ring,4
+Under Heaven,Under Heaven,1
+The Orphan Queen,The Orphan Queen,1
+The Chronicles of Alice,Alice,1
+The Young Elites,The Rose Society,2
+Frontier Magic,Thirteenth Child,1
+The Books of Bayern,Forest Born,4
+The Vampire Chronicles,The Tale of the Body Thief,4
+"Hush, Hush",Finale,4
+Darkest Powers,The Reckoning,3
+Pottermore Presents,"Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists",2
+Sevenwaters,Heir to Sevenwaters,4
+Arthurian Saga,The Hollow Hills,2
+Tales of the Kin,Among Thieves,1
+Incarnations of Immortality,Wielding a Red Sword,4
+Lady Helen,The Dark Days Club,1
+Snow Like Ashes,Ice Like Fire,2
+Charley Davidson,First Grave on the Right,1
+Ranger's Apprentice,The Kings of Clonmel,8
+The Selection,The One,3
+"Legend of Drizzt,",The Dark Elf Trilogy Collector's Edition,1-3
+Caster Chronicles,Beautiful Redemption,4
+The Voyage of the Jerle Shannara,Morgawr,3
+Pottermore Presents,Hogwarts: An Incomplete and Unreliable Guide,3
+Caraval,Legendary,2
+Delirium,Delirium,1
+Temeraire,Crucible of Gold,7
+The Maze Runner,The Scorch Trials,2
+Wildwood Chronicles,Wildwood,1
+Sandman Slim,Sandman Slim,1
+Shades of Grey,Shades of Grey,1
+Red Rising,Golden Son,2
+The Iron Druid Chronicles,Trapped,5
+Carve the Mark,Carve the Mark,1
+Books of Arilland,Enchanted,1
+Dirk Gently,The Long Dark Tea-Time of the Soul,2
+Valdemar: Mage Storms,Storm Rising,2
+The Children of the Red King,Midnight for Charlie Bone,1
+The Riyria Chronicles,The Rose and the Thorn,2
+Blood of Eden,The Immortal Rules,1
+Hex Hall,Spell Bound,3
+Modern Faerie Tales,Ironside,3
+Kingdom on Fire,A Shadow Bright and Burning,1
+Chronicle of the Unhewn Throne,The Providence of Fire,2
+Powder Mage,The Autumn Republic,3
+The Left Hand of God,The Left Hand of God,1
+Books of the Raksura,The Cloud Roads,1
+Redwall,The Bellmaker,7
+Lightbringer,The Blood Mirror,4
+"Bone,",Night of Cake &amp; Puppets,2.5
+Shatter Me,Unravel Me,2
+The Invisible Library,The Masked City,2
+Conclave of Shadows,Talon of the Silver Hawk,1
+The Others,Marked in Flesh,4
+Outlander,The Fiery Cross,5
+Underland Chronicles,Gregor and the Prophecy of Bane,2
+"Study,",Shadow Study,4
+House of Night,Burned,7
+Warriors,Into the Wild,1
+Wicked Lovely,Fragile Eternity,3
+Pern,The Renegades of Pern,10
+Defy,Defy,1
+"Omega,",Hunting Ground,2
+Red Queen,War Storm,4
+Glass,Spy Glass,3
+The Books of Babel,Senlin Ascends,1
+Codex Alera,First Lord's Fury,6
+Hurog,Dragon Bones,1
+The Secrets of the Immortal Nicholas Flamel,The Enchantress,6
+Incarnations of Immortality,Being a Green Mother,5
+Lorien Legacies,The Power of Six,2
+The Forest of Hands and Teeth,The Forest of Hands and Teeth,1
+Valdemar: Mage Storms,Storm Breaking,3
+Trylle,Torn,2
+Twelve Houses,Mystic and Rider,1
+Redwall,Lord Brocktree,13
+Arc of a Scythe,Scythe,1
+The Once and Future King,The Sword in the Stone,1
+Falling Kingdoms,Frozen Tides,4
+Halfblood Chronicles,The Elvenbane,1
+Rise of the Empress,Forest of a Thousand Lanterns,1
+Forgotten Realms: Hunter's Blades,The Thousand Orcs,1
+"Legend of Drizzt,",The Thousand Orcs,14
+Black Dagger Brotherhood,Lover Eternal,2
+Five Hundred Kingdoms,One Good Knight,2
+Hitchhiker's Guide to the Galaxy,The Restaurant at the End of the Universe,2
+Pegasus,Pegasus,1
+Kingdoms of Thorn and Bone,The Briar King,1
+Redwall,Outcast of Redwall,8
+Waverley Family,Garden Spells,1
+Brooklyn Brujas,Labyrinth Lost,1
+Mythago Wood,Mythago Wood,1
+The Keys to the Kingdom,Grim Tuesday,2
+Tales of the Otori,Grass for His Pillow,2
+Valdemar: Mage Wars,The White Gryphon,2
+Forgotten Realms: Paths of Darkness,The Silent Blade,1
+"Legend of Drizzt,",The Silent Blade,11
+The Witchlands,Windwitch,2
+The Chronicles of the Black Company,Shadows Linger,2
+The Riftwar Legacy,Krondor: The Betrayal,1
+The Hollows,"The Good, the Bad, and the Undead",2
+Healer,Touch of Power,1
+The Looking Glass Wars,Seeing Redd,2
+Everneath,Everneath,1
+Night Vale,Welcome to Night Vale,1
+Nevermoor,Nevermoor: The Trials of Morrigan Crow,1
+Heralds of Valdemar,Exile's Honor,6
+Thursday Next,First Among Sequels,5
+Furthermore,Furthermore,1
+The Immortals,Blue Moon,2
+The Daevabad Trilogy,The City of Brass,1
+Kate Daniels,Magic Strikes,3
+Chronicles of the Warlands,Warprize ,1
+Lux,Opal,3
+Tales of Magic,Half Magic,1
+Frostblood Saga,Frostblood,1
+"Anita Blake, Vampire Hunter",Circus of the Damned,3
+The Hedge Knight Graphic Novels,The Hedge Knight,1
+Samaria,Archangel,1
+The Books of Pellinor,The Riddle,2
+Defiance,Defiance,1
+Sea of Ink and Gold,The Reader,1
+Kingfountain,The Queen's Poisoner,1
