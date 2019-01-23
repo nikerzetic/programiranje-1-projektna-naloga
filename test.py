@@ -1,15 +1,15 @@
-from fake_useragent import UserAgent
-import requests
+from splinter import Browser
 
+browser = Browser('firefox')
 
-url = 'https://www.goodreads.com/user/sign_in'
-payload = {'user[email]': 'jotopijo1@gmail.com', 'user[password]': 'geslo123'}
+browser.visit('https://www.goodreads.com/user/sign_in')
 
-with requests.Session() as s:
-    p = s.post(url, data=payload)
+browser.find_by_id('user_email').fill('jotopijo1@gmail.com')
+browser.find_by_id('user_password').fill('geslo123')
+browser.find_by_value('Sign in').first.click()
 
-    r1 = s.get('https://www.goodreads.com/shelf/show/fantasy', headers={'Authorization': 'access_token myToken'})
+browser.visit('https://www.goodreads.com/shelf/show/fantasy?page=24')
+with open('test.html', 'w', encoding='utf-8') as dat:
+    dat.write(browser.html)
 
-    r = s.get('https://www.goodreads.com/shelf/show/fantasy?page=25', headers={'Authorization': 'access_token myToken'})
-    with open('test.html', 'w', encoding='utf-8') as dat:
-        dat.write(r.text)
+browser.quit()

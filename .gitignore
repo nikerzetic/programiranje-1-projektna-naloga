@@ -106,3 +106,6 @@ venv.bak/
 # Folders
 downloaded_sites/
 .vscode/
+
+# Other
+geckodriver.log
