@@ -157,4 +157,4 @@ class GetAndCleanData:
 
 
 GetAndCleanData(sign_in_page, frontpage_url, user_email, user_password, 
-                downloaded_sites_directory, edited_data_directory, range(1, 26), True)
+                downloaded_sites_directory, edited_data_directory, range(1, 26))
