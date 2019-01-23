@@ -4,7 +4,11 @@ import os
 import re
 import sys
 import requests
+from splinter import Browser
 
+sign_in_page = 'https://www.goodreads.com/user/sign_in'
+user_email = 'jotopijo1@gmail.com'
+user_password = 'geslo123'
 frontpage_url = 'https://www.goodreads.com/shelf/show/fantasy'
 downloaded_sites_directory = 'downloaded_sites'
 edited_data_directory = 'edited_data'
@@ -20,105 +24,137 @@ regex = re.compile(
     r'published (?P<published>.*?)\s',
     flags=re.DOTALL
 )
-# Creates directory to save files to
-def create_directory(dir_name):
-    if not os.path.isdir(dir_name):
-        os.makedirs(dir_name, exist_ok=True)
 
-# Turns html file into string
-def read_file_to_str(directory, filename):
-    with open(os.path.join(directory, filename), 'r', encoding='utf8') as dat:
-        return dat.read()
+class GetAndCleanData:
 
-# Tests wether the code is working or not
-def get_data_from_text(text):
-    return [separate_data(x) for x in re.finditer(regex, text)]
+    def __init__(self, sign_in_page_url, url, email, password, download_dir, edit_dir, page_numbers, force_download=False):
+        self.sign_in_page_url = sign_in_page_url
+        self.url = url
+        self.email = email
+        self.password = password
+        self.download_dir = download_dir
+        self.edit_dir = edit_dir
+        self.page_numbers = page_numbers
+        self.books = []
+        self.force_download = force_download
 
-# Downloads the website from given url and saves it in directory under given name
-def download_website(url, directory, filename, force_download=False):
-    create_directory(directory)
-    try:
+        self.browser = Browser('firefox')
+        self.sign_in()
+        self.download_sites()
+        self.authors, self.series = self.separate_joint_data()
+        self.write_data()
+
+        self.close_browser()
+
+    # Creates Browser object and logs in
+    def sign_in(self):
+        self.browser.visit(self.sign_in_page_url)
+
+        self.browser.find_by_id('user_email').fill(self.email)
+        self.browser.find_by_id('user_password').fill(self.password)
+        self.browser.find_by_value('Sign in').first.click()
+
+    # Closes browser
+    def close_browser(self):
+        self.browser.quit()
+
+    # Creates directory to save files to
+    def create_directory(self, directory):
+        if not os.path.isdir(directory):
+            os.makedirs(directory, exist_ok=True)
+
+    # Turns html file into string
+    def read_file_to_str(self, filename):
+        with open(os.path.join(self.download_dir, filename), 'r', encoding='utf8') as dat:
+            return dat.read()
+    
+    # Separates page into dictionaries of regex maches
+    def separate_data(self, match):
+        book_data = match.groupdict()
+        return book_data
+
+    # Tests wether the code is working or not
+    def get_data_from_text(self, text):
+        return [self.separate_data(x) for x in re.finditer(regex, text)]
+
+    def download_this_website(self, url, filename):
+        self.create_directory(self.download_dir)
         print('Saving page {} ...'.format(url), end='')
         sys.stdout.flush()
-        if os.path.isfile(os.path.join(directory, filename)) and not force_download:
+        if os.path.isfile(os.path.join(self.download_dir, filename)) and not self.force_download:
             print('Page already saved')
             return
-        r = requests.get(url, allow_redirects=True)
-    except requests.exceptions.ConnectionError:
-        print('Page does not exist')
-    else:
-        with open(os.path.join(directory, filename), 'w', encoding='utf-8') as datoteka:
-            datoteka.write(r.text)
-            print('Page saved')
+        else:
+            self.browser.visit(url)
+            with open(os.path.join(self.download_dir, filename), 'w', encoding='utf-8') as datoteka:
+                datoteka.write(self.browser.html)
+                print('Page saved')
 
-# Separates page into dictionaries of regex maches
-def separate_data(match):
-    book_data = match.groupdict()
-    return book_data
+    # Creates url from given page number
+    def merge_url_and_number(self, num):
+        return self.url + '?page={}'.format(num)
+
+    # Writes file to .csv and .json
+    def write_to_csv(self, dictionary, fields, directory, filename):
+        self.create_directory(directory)
+        with open(os.path.join(directory, filename), 'w', encoding='utf-8') as csv_file:
+            writer = csv.DictWriter(csv_file, fieldnames=fields, extrasaction='ignore')
+            writer.writeheader()
+            for dic in dictionary:
+                writer.writerow(dic)
+
+    def write_to_json(self, dictionary, directory, filename):
+        self.create_directory(directory)
+        with open(os.path.join(directory, filename), 'w', encoding='utf-8') as json_file:
+            json.dump(dictionary, json_file, indent=4, ensure_ascii=False)
+
+    # Sorts given data
+    def sort_data(self, dic):
+        dic['shelved'] = int(dic['shelved'])
+        dic['avg_rating'] = float(dic['avg_rating'])
+        dic['ratings'] = int(dic['ratings'].replace(',', ''))
+        try:
+            dic['published'] = int(dic['published'])
+        except (TypeError, ValueError):
+            dic['published'] = None
+        try:
+            dic['volume'] = int(dic['volume'])
+        except (TypeError, ValueError):
+            dic['volume'] = None
+        if not dic['volume']:
+            dic['series'] = None
+
+    # Separates data about authors and series
+    def separate_joint_data(self):
+        authors, series = [], []
+
+        for book in self.books:
+            for author in book['author'].split(', '):
+                authors.append({'title': book['title'], 'author': author})
+            if book['series']:
+                series.append({'series': book['series'], 'title': book['title'], 'volume': book['volume']})
+            if book['alt_series']:
+                series.append({'series': book['alt_series'], 'title': book['title'], 'volume': book['alt_volume']})
+
+        return authors, series
+
+    # Downloads the pages in given range, sorts the data and appends it to books
+    def download_sites(self):
+        for page_num in self.page_numbers:
+            site_name = 'page_{}.html'.format(page_num)
+            self.download_this_website(self.merge_url_and_number(page_num), site_name)
+            for book in self.get_data_from_text(self.read_file_to_str(site_name)):
+                self.sort_data(book)
+                if book['published']:
+                    self.books.append(book)
+
+    # Writes the data in separate .csv files
+    def write_data(self):
+        self.write_to_json(self.books, self.edit_dir, 'books.json')
+        self.write_to_csv(self.books, ['title', 'shelved', 'avg_rating', 'ratings', 'published'], self.edit_dir, 'books.csv')
+        self.write_to_csv(self.authors, ['title', 'author'], self.edit_dir, 'authors.csv')
+        self.write_to_csv(self.series, ['series', 'title', 'volume'], self.edit_dir, 'series.csv')
 
 
-# Creates url from given page number
-def merge_url_and_number(url, num):
-    return url + '?page={}'.format(num)
-
-# Writes file to .csv and .json
-def write_to_csv(dictionary, fields, directory, filename):
-    create_directory(directory)
-    with open(os.path.join(directory, filename), 'w', encoding='utf-8') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=fields, extrasaction='ignore')
-        writer.writeheader()
-        for dic in dictionary:
-            writer.writerow(dic)
-
-def write_to_json(dictionary, directory, filename):
-    create_directory(directory)
-    with open(os.path.join(directory, filename), 'w', encoding='utf-8') as json_file:
-        json.dump(dictionary, json_file, indent=4, ensure_ascii=False)
-
-# Sorts given data
-def sort_data(dic):
-    dic['shelved'] = int(dic['shelved'])
-    dic['avg_rating'] = float(dic['avg_rating'])
-    dic['ratings'] = int(dic['ratings'].replace(',', ''))
-    try:
-        dic['published'] = int(dic['published'])
-    except (TypeError, ValueError):
-        dic['published'] = None
-    try:
-        dic['volume'] = int(dic['volume'])
-    except (TypeError, ValueError):
-        dic['volume'] = None
-    if not dic['volume']:
-        dic['series'] = None
-
-# Separates data about authors and series
-def separate_joint_data(books):
-    authors, series = [], []
-
-    for book in books:
-        for author in book['author'].split(', '):
-            authors.append({'title': book['title'], 'author': author})
-        if book['series']:
-            series.append({'series': book['series'], 'title': book['title'], 'volume': book['volume']})
-        if book['alt_series']:
-            series.append({'series': book['alt_series'], 'title': book['title'], 'volume': book['alt_volume']})
-
-    return authors, series
-
-# Downloads the pages in given range, sorts the data and appends it to books
-books = []
-
-for page_num in range(1, 26):
-    site_name = 'page_{}.html'.format(page_num)
-    download_website(merge_url_and_number(frontpage_url, page_num), downloaded_sites_directory, site_name)
-    for book in get_data_from_text(read_file_to_str(downloaded_sites_directory, site_name)):
-        sort_data(book)
-        if book['published']:
-            books.append(book)
-
-# Writes the data in separate .csv files
-authors, series = separate_joint_data(books)
-write_to_json(books, edited_data_directory, 'books.json')
-write_to_csv(books, ['title', 'shelved', 'avg_rating', 'ratings', 'published'], edited_data_directory, 'books.csv')
-write_to_csv(authors, ['title', 'author'], edited_data_directory, 'authors.csv')
-write_to_csv(series, ['series', 'title', 'volume'], edited_data_directory, 'series.csv')
+GetAndCleanData(sign_in_page, frontpage_url, user_email, user_password, 
+                downloaded_sites_directory, edited_data_directory, range(1, 26), True)
