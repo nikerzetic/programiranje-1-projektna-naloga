@@ -12,7 +12,7 @@ edited_data_directory = 'edited_data'
 regex = re.compile(
     r'<a class="bookTitle" href=".*?">(?P<title>.*?)\s?'
     r'(\((?P<series>.+?)(, #(?P<volume>.+?))?'
-    r'(; (?P<alt_series>.+?) #(?P<alt_volume>.+?))?\))?</a>.+?'
+    r'(; (?P<alt_series>.+?)(,? #(?P<alt_volume>.+?))?)?\))?</a>.+?'
     r'<span itemprop="name">(?P<author>.*?)</span>.+?'
     r'\(shelved (?P<shelved>\d+?) times as <em>fantasy</em>\)</a>.+?'
     r'avg rating (?P<avg_rating>\d\.\d\d).+?'
