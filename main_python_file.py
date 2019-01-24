@@ -13,7 +13,7 @@ frontpage_url = 'https://www.goodreads.com/shelf/show/fantasy'
 downloaded_sites_directory = 'downloaded_sites'
 edited_data_directory = 'edited_data'
 
-regex = re.compile(
+user_regex = re.compile(
     r'<a class="bookTitle" href=".*?">(?P<title>.*?)\s?'
     r'(\((?P<series>.+?)(, #(?P<volume>.+?))?'
     r'(; (?P<alt_series>.+?)(,? #(?P<alt_volume>.+?))?)?\))?</a>.+?'
@@ -27,7 +27,7 @@ regex = re.compile(
 
 class GetAndCleanData:
 
-    def __init__(self, sign_in_page_url, url, email, password, download_dir, edit_dir, page_numbers, force_download=False):
+    def __init__(self, sign_in_page_url, url, email, password, download_dir, edit_dir, page_numbers, regex, force_download=False):
         self.sign_in_page_url = sign_in_page_url
         self.url = url
         self.email = email
@@ -36,6 +36,7 @@ class GetAndCleanData:
         self.edit_dir = edit_dir
         self.page_numbers = page_numbers
         self.books = []
+        self.regex = regex
         self.force_download = force_download
 
         self.browser = Browser('firefox')
@@ -75,7 +76,7 @@ class GetAndCleanData:
 
     # Tests wether the code is working or not
     def get_data_from_text(self, text):
-        return [self.separate_data(x) for x in re.finditer(regex, text)]
+        return [self.separate_data(x) for x in re.finditer(self.regex, text)]
 
     def download_this_website(self, url, filename):
         self.create_directory(self.download_dir)
@@ -157,4 +158,4 @@ class GetAndCleanData:
 
 
 GetAndCleanData(sign_in_page, frontpage_url, user_email, user_password, 
-                downloaded_sites_directory, edited_data_directory, range(1, 26))
+                downloaded_sites_directory, edited_data_directory, range(1, 26), user_regex)
